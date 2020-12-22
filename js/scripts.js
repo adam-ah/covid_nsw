@@ -344,6 +344,15 @@
 	/* Removes Long Focus On Buttons */
 	$(".button, a, button").mouseup(function() {
 		$(this).blur();
-	});
+    });
+    
+    // fetch('meta.json')
+    //     .then(response => response.json())
+    //     .then(data => $("lastUpdated").text("Last updated: " + data.lastUpdated));
+
+    $.get( "meta.json", { rnd: Math.random() } )
+        .done(function( data ) {
+            $("#lastUpdated").text("Last updated: " + data.lastUpdated);
+    });
 
 })(jQuery);
