@@ -3,40 +3,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    "151.328658",
-                    "-33.635934"
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "Red"
-                },
-                "description": "Thursday 17 December 2020, all day\n\nWednesday 16 December 2020, all day\n\nTuesday 15 December 2020, all day\n\nMonday 14 December 2020, all day\n\nSunday\u00a013 December 2020, all day\n\nSaturday 12 December 2020, all day\n\nFriday 11 December 2020, all day\n\nAnyone who attended this venue any day on or after Tuesday 8 December is considered a close contact and should get tested and self-isolate for 14 days, even if they receive a negative result, after they were last at the gym.Anyone who attended this venue at any time between Monday 23 November to Monday 7 December should get tested immediately and self-isolate until they receive a negative result.",
-                "name": "Anytime Fitness Avalon Beach"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    "151.1369647",
-                    "-33.61154728"
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "Red"
-                },
-                "description": "Wednesday 16 December 2020, 5:30am to 6:30am\n\nThursday 17 December 2020, 5:30am to 6:30am\n\nAnyone who attended this venue at these times is considered a close contact and must immediately get tested and self-isolate for 14 days regardless of the result.",
-                "name": "Anytime Fitness Berowra"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     "150.912638",
                     "-33.7523608"
                 ],
@@ -46,59 +12,8 @@
                 "_umap_options": {
                     "color": "Red"
                 },
-                "description": "Sunday 20 December 2020, 9:30am to 11:45am\n\nAnyone who attended this venue at these times is considered a close contact and must immediately get tested and self-isolate for 14 days regardless of the result.",
+                "description": "Sunday 20 December 2020, 9:30am to 11:45am\n\nGet tested immediately and self-isolate for 14 days",
                 "name": "Anytime Fitness Kings Park"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    "151.3067474",
-                    "-33.6734924"
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "Red"
-                },
-                "description": "Thursday 17 December 2020, 9:50am to 12:45pm\n\nAnyone who attended this venue at these times is considered a close contact and must immediately get tested and self-isolate for 14 days regardless of the result.",
-                "name": "Anytime Fitness Mona Vale"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    "151.328588",
-                    "-33.635373"
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "Red"
-                },
-                "description": "Wednesday 16 December 2020, all day\n\nTuesday 15 December 2020, all day\n\nSunday 13 December 2020, 8:30pm to 9:15pm\n\nMonday 14 December 2020, all day\n\nFriday 11 December 2020, all day\n\nAnyone present on Friday 11 December (anytime), Monday 14 December (anytime), Tuesday 15 December (anytime), Wednesday 16 December (1pm-11:59pm) is considered a close contact and must immediately get tested and self-isolate for 14 days regardless of the result. If present on Sunday 13 December, between 8:30pm and 9:15pm, to monitor for symptoms and if they occur get tested immediately and self-isolate until you receive a negative result.",
-                "name": "Avalon Beach RSL Club"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    "151.3276377",
-                    "-33.6345223"
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "Red"
-                },
-                "description": "Tuesday 15 December 2020, 6pm to 8:30pm\n\nTuesday 15 December 2020, 3pm to 5pm\n\nSunday 13 December 2020, 5pm to 7pm\n\nAnyone who attended this venue at these times is considered a close contact and must immediately get tested and self-isolate for 14 days regardless of the result.",
-                "name": "Avalon Bowlo (bowling club)"
             },
             "type": "Feature"
         },
@@ -114,25 +29,8 @@
                 "_umap_options": {
                     "color": "Red"
                 },
-                "description": "Sunday 20 December 2020, 7:30pm to 8:30pm\n\nAnyone who attended this venue is a casual contact and must get tested and self-isolate until they receive a negative result. ",
+                "description": "Sunday 20 December 2020, 7:30pm to 8:30pm\n\nGet tested and immediately self-isolate until you receive a negative result",
                 "name": "Avoca Beach Hotel, Saltwater Bistro"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    "150.9199112",
-                    "-33.763831"
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "Red"
-                },
-                "description": "Wednesday 16 December 2020, 7am to 8am\n\nThursday 17 December 2020, 7am to 8am\n\nFriday 18 December 2020, 7am to 8am\n\nAnyone who attended this venue at these times is considered a close contact and must immediately get tested and self-isolate for 14 days regardless of the result.",
-                "name": "BodyFit Gym Blacktown"
             },
             "type": "Feature"
         },
@@ -148,127 +46,8 @@
                 "_umap_options": {
                     "color": "Red"
                 },
-                "description": "Sunday 20 December 2020, 2:50pm to 4pm\n\nAnyone who attended this venue during this time for one hour or more, must get tested and self-isolate for 14 days.Anyone who attended this venue during this time for less than one hour get tested immediately and self-isolate until you receive a negative result. ",
+                "description": "Sunday 20 December 2020, 2:50pm to 4pm\n\nGet tested immediately and self-isolate for 14 days",
                 "name": "Chicago Jones Coffee & Chocolate Maison"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    "151.3046103",
-                    "-33.6758537"
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "Red"
-                },
-                "description": "Wednesday 16 December 2020, 8:30pm to 10pm\n\nThursday 17 December 2020, all day\n\nSunday 13 December 2020, 2pm to 4pm\n\nMonday 14 December 2020, all day\n\nAnyone who attended this venue at these times is considered a close contact and must immediately get tested and self-isolate for 14 days regardless of the result.",
-                "name": "Fitness First Mona Vale"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    "151.2858698",
-                    "-33.7999064"
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "Red"
-                },
-                "description": "Thursday 17 December 2020, 7:10pm to 8:15pm\n\nAnyone who attended this venue at these times is considered a close contact and must immediately get tested and self-isolate for 14 days regardless of the result.",
-                "name": "Garfish Manly"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    "151.212886",
-                    "-33.84563328"
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "Red"
-                },
-                "description": "Thursday 17 December 2020, 12:45pm to 3pm\n\nAnyone who attended this venue at these times is considered a close contact and must immediately get tested and self-isolate for 14 days regardless of the result.",
-                "name": "Kirribilli Hotel"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    "151.1469383",
-                    "-33.8849112"
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "Red"
-                },
-                "description": "\u200bFriday 18 December 2020, 12:30pm to 1:15pm\n\nAnyone who attended this venue for one hour or more is a casual contact and must get tested and self-isolate until they receive a negative result. Anyone who attended this venue for less than one hour should monitor for symptoms and if they occur get tested immediately and self-isolate until you receive a negative result.",
-                "name": "Massage Link (formerly known as Time To Massage"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    "151.297418",
-                    "-33.7013"
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "Red"
-                },
-                "description": "Friday 18 December 2020, 10:30am to 2pm\n\nAnyone who attended this venue at these times is considered a close contact and must immediately get tested and self-isolate for 14 days regardless of the result.",
-                "name": "Motorserve Narrabeen Car Servicing"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    "151.328626",
-                    "-33.635333"
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "Red"
-                },
-                "description": "Wednesday 16 December 2020, 6pm to 8pm\n\nTuesday 15 December 2020, 6pm to 8pm\n\nThursday 17 December 2020, 6pm to 8pm\n\nMonday 14 December 2020, 6pm to 8pm\n\nAnyone who dined-in at this venue at any time on these days should get tested immediately and self-isolate for 14 days.Anyone who purchased take-away from the venue on these days should get tested immediately and self-isolate until they receive a negative result.",
-                "name": "Oceana Traders - Seafood Merchants"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    "151.2304415",
-                    "-33.88421451"
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "Red"
-                },
-                "description": "Thursday 17 December 2020, 5:30am to 6pm\n\nSaturday 19 December 2020, 5:30am to 6pm\n\nFriday 18 December 2020, 5:30am to 6pm\n\nAll patrons who were seated at this venue \u2013 inside or outside \u2013 at these times should get tested immediately and self-isolate for 14 days regardless of the result.Patrons who got take away should monitor for symptoms, and Get tested immediately and self-isolate until you receive a negative result.",
-                "name": "Paddington Alimentari"
             },
             "type": "Feature"
         },
@@ -284,127 +63,8 @@
                 "_umap_options": {
                     "color": "Red"
                 },
-                "description": "Sunday 20 December 2020, 11:15am to 12:15pm\n\nAnyone who attended this venue at these times is considered a close contact and must immediately get tested and self-isolate for 14 days regardless of the result.",
+                "description": "Sunday 20 December 2020, 11:15am to 12:15pm\n\nGet tested immediately and self-isolate for 14 days",
                 "name": "Rosnay Golf Club Bistro"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    "151.23036",
-                    "-33.884290"
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "Red"
-                },
-                "description": "Wednesday 16 December 2020, 9am to 6pm\n\nThursday 17 December 2020, 9am to 8pm\n\nAnyone who attended this venue at these times is considered a close contact and must immediately get tested and self-isolate for 14 days regardless of the result.",
-                "name": "Salon X"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    "151.321246",
-                    "-33.65448052"
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "Red"
-                },
-                "description": "Thursday 17 December 2020, 2:30pm to 3:30pm\n\nAnyone who attended this venue at these times is considered a close contact and must immediately get tested and self-isolate for 14 days regardless of the result.",
-                "name": "Sankaku Izakaya Newport"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    "151.126701",
-                    "-33.732687"
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "Red"
-                },
-                "description": "Friday 18 December 2020, all day\n\nThursday 17 December 2020, all day\n\nWednesday 16 December 2020, all day\n\nTuesday 15 December 2020, all day\n\nAnyone who attended this venue at these times is considered a close contact and must immediately get tested and self-isolate for 14 days regardless of the result.",
-                "name": "The Salon for Hair"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    "151.152525",
-                    "-33.75518132"
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "Red"
-                },
-                "description": "Thursday 17 December 2020, 12:30pm to 1:30pm\n\nAnyone who attended this venue during this time for one hour or more, must\u00a0 get tested\u00a0and\u00a0self-isolate\u00a0for 14 days.Anyone who attended this venue during this time for less than one hour get tested immediately and self-isolate until you receive a negative result. ",
-                "name": "USA Nails"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    "151.2111308",
-                    "-33.73877723"
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "Red"
-                },
-                "description": "Monday 7 December 2020, 9:30am to 11:30am\n\nSunday 6 December 2020, 9:30am to 11:30am\n\nWednesday 9 December 2020, 9:30am to 11:30am\n\nSaturday 12 December 2020, 9:30am to 11:30am\n\nMonday 14 December 2020, 9:30am to 11:30am\n\nFriday 18 December 2020, 9:30am to 11:30am\n\nFriday 11 December 2020, 9:45am to 11:30am\n\nAnyone who attended this venue is a casual contact and must get tested and self-isolate until they receive a negative result. ",
-                "name": "Anytime Fitness Belrose"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    "151.207751",
-                    "-33.872232"
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "Red"
-                },
-                "description": "Thursday 17 December 2020, 11:15am to 12:15pm\n\nAnyone who attended this venue is a casual contact and must get tested and self-isolate until they receive a negative result. ",
-                "name": "Arthouse Hotel"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    "151.1015764",
-                    "-33.70357312"
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "Red"
-                },
-                "description": "Thursday 17 December 2020, 10am to 11am\n\nAnyone who attended this venue is a casual contact and must get tested and self-isolate until they receive a negative result. ",
-                "name": "Aura Threading and Beauty Hornsby"
             },
             "type": "Feature"
         },
@@ -420,59 +80,8 @@
                 "_umap_options": {
                     "color": "Red"
                 },
-                "description": "Tuesday 22 December 2020, 3:30pm to 4pm\n\nAnyone who attended this venue is a casual contact and must get tested and self-isolate until they receive a negative result. You should continue to monitor for symptoms and if any symptoms occur, get tested again.",
+                "description": "Tuesday 22 December 2020, 3:30pm to 4pm\n\nGet tested immediately and self-isolate until you get a negative result",
                 "name": "Balmain Post Office"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    "152.5124124",
-                    "-32.17796464"
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "Red"
-                },
-                "description": "Wednesday 16 December 2020, 8am to 9am\n\nThursday 17 December 2020, 8am to 9am\n\nAnyone who attended this venue is a casual contact and must get tested and self-isolate until they receive a negative result. ",
-                "name": "Beach Bums Cafe"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    "151.2174357",
-                    "-33.7332629"
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "Red"
-                },
-                "description": "Friday 11 December 2020, 12pm to 6pm\n\nAnyone who attended this venue is a casual contact and must get tested and self-isolate until they receive a negative result. You should continue to monitor for symptoms and if any symptoms occur, get tested again.Anyone who attended this venue during December should monitor for symptoms and if they occur get tested immediately and self-isolate until you receive a negative result.",
-                "name": "Belrose Hotel"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    "151.3215428",
-                    "-33.6538751"
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "Red"
-                },
-                "description": "Friday 18 December 2020, 9am to 9:30am\n\nAnyone who attended this venue is a casual contact and must get tested and self-isolate until they receive a negative result. ",
-                "name": "Bowan Island Bakery"
             },
             "type": "Feature"
         },
@@ -488,212 +97,8 @@
                 "_umap_options": {
                     "color": "Red"
                 },
-                "description": "Monday 21 December 2020, 2pm to 2:30pm\n\nAnyone who attended this venue is a casual contact and must get tested and self-isolate until they receive a negative result. ",
+                "description": "Monday 21 December 2020, 2pm to 2:30pm\n\nGet tested immediately and self-isolate until you get a negative result",
                 "name": "Cafe Bodrum"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    "151.3350373",
-                    "-33.62722948"
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "Red"
-                },
-                "description": "Thursday 17 December 2020, 10:30am to 11:30am\n\nAnyone who attended this venue is a casual contact and must get tested and self-isolate until they receive a negative result. ",
-                "name": "Cafe Relish"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    "151.2918654",
-                    "-33.6854512"
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "Red"
-                },
-                "description": "Friday 18 December 2020, 8:45am to 9:30am\n\nAnyone who attended this venue is a casual contact and must get tested and self-isolate until they receive a negative result. ",
-                "name": "Flower Power Garden Centre"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    "151.0753691",
-                    "-33.86288836"
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "Red"
-                },
-                "description": "Wednesday 16 December 2020, 2am to 11am\n\nTuesday 15 December 2020, 2am to 11am\n\nThursday 17 December 2020, 2am to 1pm\n\nAnyone who attended this venue is a casual contact and must get tested and self-isolate until they receive a negative result. ",
-                "name": "Harris Farm Warehouse"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    "151.106147",
-                    "-33.87445174"
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "Red"
-                },
-                "description": "Saturday 19 December 2020, 8am to 6pm\n\nAnyone who attended this venue is a casual contact and must get tested and self-isolate until they receive a negative result. ",
-                "name": "Hipster Clothing Store, Westfield Burwood"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    "151.287014",
-                    "-33.753926"
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "Red"
-                },
-                "description": "Tuesday 15 December 2020, 4:30pm to 4:45pm\n\nAnyone who attended this venue at these times is considered a close contact and must immediately get tested and self-isolate for 14 days regardless of the result.",
-                "name": "HongFa BBQ Restaurant"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    "151.1710455",
-                    "-33.8621802"
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "Red"
-                },
-                "description": "\u200bThursday 17 December 2020, 8:25am to 8:35am\n\nAnyone who attended this venue is a casual contact and must get tested and self-isolate until they receive a negative result. You should continue to monitor for symptoms and if any symptoms occur, get tested again.",
-                "name": "IGA Rozelle"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    "151.1075799",
-                    "-33.7066126"
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "Red"
-                },
-                "description": "Thursday 17 December 2020, 7:15pm to 7:30pm\n\nAnyone who attended this venue is a casual contact and must get tested and self-isolate until they receive a negative result. ",
-                "name": "Jim\u2019s Cellars"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    "151.166082",
-                    "-33.8647639"
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "Red"
-                },
-                "description": "Saturday 19 December 2020, 8:30am to 9:30am\n\nFriday 18 December 2020, 8:30am to 9:30am\n\nThursday 17 December 2020, 8:30am to 9:30am\n\n\u200bWednesday\u00a016 December 2020, 8:30am to 9:30am\n\nSunday 20 December 2020, 8:30am to 9:30am\n\nAnyone who attended this venue is a casual contact and must get tested and self-isolate until they receive a negative result. You should continue to monitor for symptoms and if any symptoms occur, get tested again.",
-                "name": "Local Bar Cafe"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    "151.2299874",
-                    "-33.8849315"
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "Red"
-                },
-                "description": "Thursday 17 December 2020, 8:15pm to 9:30pm\n\nAnyone who attended this venue is a casual contact and must get tested and self-isolate until they receive a negative result. ",
-                "name": "London Hotel"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    "151.1476119",
-                    "-33.8849343"
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "Red"
-                },
-                "description": "\u200bSaturday 19 December 2020, 2pm to 2:30pm\n\nAnyone who attended this venue is a casual contact and must get tested and self-isolate until they receive a negative result. You should continue to monitor for symptoms and if any symptoms occur, get tested again.",
-                "name": "Marketplace Leichhardt"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    "151.3031505",
-                    "-33.69252587"
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "Red"
-                },
-                "description": "Thursday 17 December 2020, 1:30pm to 2pm\n\nAnyone who attended this venue is a casual contact and must get tested and self-isolate until they receive a negative result. ",
-                "name": "McDonalds Warriewood"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    "151.1723759",
-                    "-33.8561578"
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "Red"
-                },
-                "description": "\u200bThursday 17 December 2020, 9am to 10am\n\nAnyone who attended this venue is a casual contact and must get tested and self-isolate until they receive a negative result. You should continue to monitor for symptoms and if any symptoms occur, get tested again.",
-                "name": "Mr Cafe and Bar"
             },
             "type": "Feature"
         },
@@ -709,25 +114,8 @@
                 "_umap_options": {
                     "color": "Red"
                 },
-                "description": "Monday 21 December 2020, 10am to 10:30am\n\nAnyone who attended this venue is a casual contact and must get tested and self-isolate until they receive a negative result. ",
+                "description": "Monday 21 December 2020, 10am to 10:30am\n\nGet tested immediately and self-isolate until you get a negative result",
                 "name": "Oliver Brown"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    "151.2524256",
-                    "-33.899312"
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "Red"
-                },
-                "description": "\u200bThursday 17 December 2020, 10am to 10:30am\n\nAnyone who attended this venue is a casual contact and must get tested and self-isolate until they receive a negative result. You should continue to monitor for symptoms and if any symptoms occur, get tested again.",
-                "name": "Ruby's Diner"
             },
             "type": "Feature"
         },
@@ -743,25 +131,8 @@
                 "_umap_options": {
                     "color": "Red"
                 },
-                "description": "Sunday 20 December 2020, 11am to 12:30pm\n\nAnyone who attended this venue is a casual contact and must get tested and self-isolate until they receive a negative result. ",
+                "description": "Sunday 20 December 2020, 11am to 12:30pm\n\nGet tested immediately and self-isolate until you get a negative result",
                 "name": "Sappho Books Cafe and Bar"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    "151.2409242",
-                    "-33.8241094"
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "Red"
-                },
-                "description": "Wednesday 16 December 2020, all day\n\nThursday 17 December 2020, 8am to 10am\n\nThursday 17 December 2020, all day\n\nSaturday 19 December 2020, all day\n\nFriday 18 December 2020, all day\n\nAnyone who attended this venue is a casual contact and must get tested and self-isolate until they receive a negative result. ",
-                "name": "Scoop Wholefoods"
             },
             "type": "Feature"
         },
@@ -777,25 +148,8 @@
                 "_umap_options": {
                     "color": "Red"
                 },
-                "description": "Sunday 20 December 2020, 11am to 11:30am\n\nAnyone who attended this venue is a casual contact and must get tested and self-isolate until they receive a negative result. You should continue to monitor for symptoms and if any symptoms occur, get tested again.",
+                "description": "Sunday 20 December 2020, 11am to 11:30am\n\nGet tested immediately and self-isolate until you get a negative result",
                 "name": "Sir Reuben"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    "151.2258869",
-                    "-33.5478231"
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "Red"
-                },
-                "description": "Thursday 17 December 2020, 5:30pm to 7:15pm\n\nAnyone who attended this venue is a casual contact and must get tested and self-isolate until they receive a negative result. ",
-                "name": "The Anglers Rest"
             },
             "type": "Feature"
         },
@@ -811,25 +165,8 @@
                 "_umap_options": {
                     "color": "Red"
                 },
-                "description": "Tuesday 22 December 2020, 6pm to 6:15pm\n\nAnyone who attended this venue is a casual contact and must get tested and self-isolate until they receive a negative result. You should continue to monitor for symptoms and if any symptoms occur, get tested again.",
+                "description": "Tuesday 22 December 2020, 6pm to 6:15pm\n\nGet tested immediately and self-isolate until you get a negative result",
                 "name": "Zeus Street Greek"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    "151.2958065",
-                    "-33.6955269"
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "Red"
-                },
-                "description": "Thursday 17 December 2020, 10:30am to 10:50am\n\nMonitor for symptoms and if they occur get tested immediately and self-isolate until you receive a negative result.",
-                "name": "1 Bligh St, Sydney"
             },
             "type": "Feature"
         },
@@ -845,25 +182,8 @@
                 "_umap_options": {
                     "color": "Red"
                 },
-                "description": "Sunday 20 December 2020, 4pm to 5pm\n\nMonitor for symptoms and if they occur get tested immediately and self-isolate until you receive a negative result.",
+                "description": "Sunday 20 December 2020, 4pm to 5pm\n\nMonitor for symptoms",
                 "name": "Auburn Redyard Entertainment Centre"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    "151.0958385",
-                    "-33.7027651"
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "Red"
-                },
-                "description": "\u200bThursday 17 December 2020, 6pm to 6:30pm\n\nMonitor for symptoms and if they occur get tested immediately and self-isolate until you receive a negative result.",
-                "name": "Bistro, Hornsby Railway Hotel"
             },
             "type": "Feature"
         },
@@ -879,76 +199,8 @@
                 "_umap_options": {
                     "color": "Red"
                 },
-                "description": "Sunday 20 December 2020, 8am to 9:30am\n\nMonday 21 December 2020, 7am to 8am\n\nMonitor for symptoms and if they occur get tested immediately and self-isolate until you receive a negative result.",
+                "description": "Sunday 20 December 2020, 8am to 9:30am\n\nMonday 21 December 2020, 7am to 8am\n\nMonitor for symptoms",
                 "name": "Bondi Icebergs Club (Pool Deck Level)"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    "151.211411",
-                    "-33.70229677"
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "Red"
-                },
-                "description": "Thursday 17 December 2020, 4pm to 5pm\n\nMonitor for symptoms and if they occur get tested immediately and self-isolate until you receive a negative result.",
-                "name": "Bunnings Belrose"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    "151.199059",
-                    "-33.885797"
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "Red"
-                },
-                "description": "Thursday 17 December 2020, 5pm to 6pm\n\nAnyone who attended this venue is a casual contact and must get tested and self-isolate until they receive a negative result. ",
-                "name": "Central Park Food Court"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    "151.3061931",
-                    "-33.675533"
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "Red"
-                },
-                "description": "Sunday 13 December 2020, 1pm to 3pm\n\nSaturday 19 December 2020, 12pm to 12:45pm\n\nMonitor for symptoms and if they occur get tested immediately and self-isolate until you receive a negative result.",
-                "name": "Coles Mona Vale"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    "151.321167",
-                    "-33.6538429"
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "Red"
-                },
-                "description": "Wednesday 9 December 2020, 4pm to 4:20pm\n\nTuesday 15 December 2020, 8pm to 8:15pm\n\nTuesday 15 December 2020, 2pm to 2:15pm\n\nSaturday 12 December 2020, 3:15pm to 3:30pm\n\nFriday 18 December 2020, 9am to 10am\n\nFriday 11 December 2020, 5pm to 7pm\n\nMonitor for symptoms and if they occur get tested immediately and self-isolate until you receive a negative result.",
-                "name": "Coles Newport"
             },
             "type": "Feature"
         },
@@ -964,144 +216,8 @@
                 "_umap_options": {
                     "color": "Red"
                 },
-                "description": "Sunday 20 December 2020, 7am to 2pm\n\nSaturday 19 December 2020, 7am to 3:30pm\n\nMonitor for symptoms and if they occur get tested immediately and self-isolate until you receive a negative result.",
+                "description": "Sunday 20 December 2020, 7am to 2pm\n\nSaturday 19 December 2020, 7am to 3:30pm\n\nMonitor for symptoms",
                 "name": "Coles Stanhope Gardens"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    "151.1251146",
-                    "-33.7325258"
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "Red"
-                },
-                "description": "Thursday 17 December 2020, 10am to 10:30am\n\nFriday 18 December 2020, 10:30am to 11am\n\nMonitor for symptoms and if they occur get tested immediately and self-isolate until you receive a negative result.",
-                "name": "Coles Turramurra"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    "151.1011093",
-                    "-33.7046086"
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "Red"
-                },
-                "description": "Thursday 17 December 2020, 10am to 10:20am\n\nMonitor for symptoms and if they occur get tested immediately and self-isolate until you receive a negative result.",
-                "name": "Cotton On"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    "151.1992449",
-                    "-33.7443944"
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "Red"
-                },
-                "description": "Friday 18 December 2020, 6:15pm to 6:45pm\n\nMonitor for symptoms and if they occur get tested immediately and self-isolate until you receive a negative result.",
-                "name": "Davidson Pizzeria"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    "151.2131487",
-                    "-33.7034771"
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "Red"
-                },
-                "description": "Thursday 17 December 2020, 9am to 10am\n\nMonitor for symptoms and if they occur get tested immediately and self-isolate until you receive a negative result.",
-                "name": "Fresh Delights Caf\u00e9, Belrose Super Centre"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    "151.2901335",
-                    "-33.67676799"
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "Red"
-                },
-                "description": "Friday 18 December 2020, 12pm to 1pm\n\nAnyone who attended this venue at these times is considered a close contact and must immediately get tested and self-isolate for 14 days regardless of the result.",
-                "name": "KFC Mona Vale"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    "151.1011093",
-                    "-33.7046086"
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "Red"
-                },
-                "description": "Thursday 17 December 2020, 6:30pm to 7pm\n\nMonitor for symptoms and if they occur get tested immediately and self-isolate until you receive a negative result.",
-                "name": "Kmart Hornsby"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    "149.0980662",
-                    "-33.2828439"
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "Red"
-                },
-                "description": "Saturday 19 December 2020, 4:05pm to 4:15pm\n\nMonitor for symptoms and if they occur get tested immediately and self-isolate until you receive a negative result.",
-                "name": "Orange Central Square Shopping Centre"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    "151.319025",
-                    "-33.5995793"
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "Red"
-                },
-                "description": "Thursday 17 December 2020, 7:30am to 8:30am\n\nWednesday 16 December 2020, 7:30am to 8:30am\n\nMonitor for symptoms and if they occur get tested immediately and self-isolate until you receive a negative result.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0",
-                "name": "Pronto Creative Foods"
             },
             "type": "Feature"
         },
@@ -1117,25 +233,8 @@
                 "_umap_options": {
                     "color": "Red"
                 },
-                "description": "Wednesday 23 December 2020, 10:15am to 11am\n\nMonitor for symptoms and if they occur get tested immediately and self-isolate until you receive a negative result.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0",
+                "description": "Wednesday 23 December 2020, 10:15am to 11am\n\nMonitor for symptoms",
                 "name": "QVB - Level 3 - Santa Photos"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    "151.3042323",
-                    "-33.66064423"
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "Red"
-                },
-                "description": "Wednesday 16 December 2020, 4pm to 5pm\n\nThursday 17 December 2020, 4pm to 5pm\n\nMonitor for symptoms and if they occur get tested immediately and self-isolate until you receive a negative result.",
-                "name": "Rowland Reserve Dog Park"
             },
             "type": "Feature"
         },
@@ -1151,7 +250,7 @@
                 "_umap_options": {
                     "color": "Red"
                 },
-                "description": "Sunday 20 December 2020, 12:15pm to 1pm\n\nMonitor for symptoms and if they occur get tested immediately and self-isolate until you receive a negative result.",
+                "description": "Sunday 20 December 2020, 12:15pm to 1pm\n\nMonitor for symptoms",
                 "name": "Star Nails"
             },
             "type": "Feature"
@@ -1168,59 +267,8 @@
                 "_umap_options": {
                     "color": "Red"
                 },
-                "description": "Tuesday 22 December 2020, 10am to 11:15am\n\nMonitor for symptoms and if they occur get tested immediately and self-isolate until you receive a negative result.",
+                "description": "Tuesday 22 December 2020, 10am to 11:15am\n\nMonitor for symptoms",
                 "name": "The Ian Potter Children's Wild Play Garden, Centennial Park"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    "151.2958065",
-                    "-33.6955269"
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "Red"
-                },
-                "description": "Wednesday 16 December 2020, 11am to 12:15pm\n\nTuesday 8 December 2020, 12:30pm to 2:15pm\n\nThursday 17 December 2020, 11am to 3pm\n\nMonitor for symptoms and if they occur get tested immediately and self-isolate until you receive a negative result.",
-                "name": "Warriewood Square"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    "151.2874367",
-                    "-33.684642"
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "Red"
-                },
-                "description": "Thursday 17 December 2020, 10:15am to 12:30pm\n\nAnyone who attended this venue is a casual contact and must get tested and self-isolate until they receive a negative result. ",
-                "name": "Warriewood Valley Playground Rocket, Park"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    "151.2653826",
-                    "-33.7672298"
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "Red"
-                },
-                "description": "Saturday 19 December 2020, 1:30pm to 2:30pm\n\nWednesday 16 December 2020, 10:40am to 1:40pm\n\nTuesday 15 December 2020, 12:15pm to 2:45pm\n\nMonitor for symptoms and if they occur get tested immediately and self-isolate until you receive a negative result.",
-                "name": "Westfield Warringah Mall"
             },
             "type": "Feature"
         },
@@ -1236,7 +284,7 @@
                 "_umap_options": {
                     "color": "Red"
                 },
-                "description": "Thursday 24 December 2020, 6:30pm to 7pm\n\nAnyone who attended this venue is a casual contact and must get tested and self-isolate until they receive a negative result. You should continue to monitor for symptoms and if any symptoms occur, get tested again.",
+                "description": "Thursday 24 December 2020, 6:30pm to 7pm\n\nGet tested immediately and self-isolate until you get a negative result",
                 "name": "Priceline Pharmacy Casula"
             },
             "type": "Feature"
@@ -1253,7 +301,7 @@
                 "_umap_options": {
                     "color": "Red"
                 },
-                "description": "Thursday 24 December 2020, 7:30pm to 8pm\n\nAnyone who attended this venue is a casual contact and must get tested and self-isolate until they receive a negative result. You should continue to monitor for symptoms and if any symptoms occur, get tested again.",
+                "description": "Thursday 24 December 2020, 7:30pm to 8pm\n\nGet tested immediately and self-isolate until you get a negative result",
                 "name": "Radio Bombay Restaurant"
             },
             "type": "Feature"
@@ -1270,7 +318,7 @@
                 "_umap_options": {
                     "color": "Red"
                 },
-                "description": "Thursday 24 December 2020, 7pm to 7:30pm\n\nAnyone who attended this venue is a casual contact and must get tested and self-isolate until they receive a negative result. You should continue to monitor for symptoms and if any symptoms occur, get tested again.",
+                "description": "Thursday 24 December 2020, 7pm to 7:30pm\n\nGet tested immediately and self-isolate until you get a negative result",
                 "name": "Casula Mall Coles"
             },
             "type": "Feature"
@@ -1287,25 +335,8 @@
                 "_umap_options": {
                     "color": "Red"
                 },
-                "description": "Thursday 24 December 2020, 6:30pm to 8pm\n\nMonitor for symptoms and if they occur get tested immediately and self-isolate until you receive a negative result.",
+                "description": "Thursday 24 December 2020, 6:30pm to 8pm\n\nMonitor for symptoms",
                 "name": "Casula Mall"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    "151.3031748",
-                    "-33.6759177"
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "Red"
-                },
-                "description": "Saturday 19 December 2020, All day\n\nFriday 18 December 2020, All day\n\nThursday 17 December 2020, All day\n\nWednesday 16 December 2020, All day\n\nTuesday 15 December 2020, All day\n\nMonday 14 December 2020, All day\n\nSunday 13 December 2020, All day\n\nMonitor for symptoms and if they occur get tested immediately and self-isolate until you receive a negative result.",
-                "name": "Pittwater Place"
             },
             "type": "Feature"
         },
@@ -1321,7 +352,7 @@
                 "_umap_options": {
                     "color": "Red"
                 },
-                "description": "Thursday 24 December 2020, 6:45am to 9:30am\n\nWednesday 23 December 2020, 8:45am to 9am\n\nMonday 21 December 2020, 12:30pm to 1:20pm\n\nMonitor for symptoms and if they occur get tested immediately and self-isolate until you receive a negative result.",
+                "description": "Thursday 24 December 2020, 6:45am to 9:30am\n\nWednesday 23 December 2020, 8:45am to 9am\n\nMonday 21 December 2020, 12:30pm to 1:20pm\n\nMonitor for symptoms",
                 "name": "Figtree Grove Shopping Centre"
             },
             "type": "Feature"
@@ -1338,7 +369,7 @@
                 "_umap_options": {
                     "color": "Red"
                 },
-                "description": "Wednesday 23 December 2020, 3:30pm to 4pm\n\nMonitor for symptoms and if they occur get tested immediately and self-isolate until you receive a negative result.",
+                "description": "Wednesday 23 December 2020, 3:30pm to 4pm\n\nMonitor for symptoms",
                 "name": "Wollongong Central"
             },
             "type": "Feature"
@@ -1355,7 +386,7 @@
                 "_umap_options": {
                     "color": "Red"
                 },
-                "description": "Sunday 27 December 2020, 9am to 10.15am\n\nAnyone who attended this venue at these times is considered a close contact and must immediately get tested and self-isolate for 14 days regardless of the result.",
+                "description": "Sunday 27 December 2020, 9am to 10.15am\n\nGet tested immediately and self-isolate for 14 days",
                 "name": "St Nektarios Greek Orthodox Church"
             },
             "type": "Feature"
@@ -1372,7 +403,7 @@
                 "_umap_options": {
                     "color": "Red"
                 },
-                "description": "Sunday 27 December 2020, 10:30am to 11am\n\nAnyone who attended this venue is a casual contact and must get tested and self-isolate until they receive a negative result. You should continue to monitor for symptoms and if any symptoms occur, get tested again. Close contacts from this venue will be contacted by NSW Health.",
+                "description": "Sunday 27 December 2020, 10:30am to 11am\n\nGet tested immediately and self-isolate until you get a negative result",
                 "name": "The Holy Cross Greek Orthodox Church"
             },
             "type": "Feature"
@@ -1389,42 +420,8 @@
                 "_umap_options": {
                     "color": "Red"
                 },
-                "description": "Wednesday 23 December 2020, 9:30am to 2pm\n\nMonday 21 December 2020, 9:30am to 5pm\n\nAnyone who attended this venue is a casual contact and must get tested and self-isolate until they receive a negative result. You should continue to monitor for symptoms and if any symptoms occur, get tested again. Close contacts from this venue will be contacted by NSW Health.",
+                "description": "Wednesday 23 December 2020, 9:30am to 2pm\n\nMonday 21 December 2020, 9:30am to 5pm\n\nGet tested immediately and self-isolate until you get a negative result",
                 "name": "Proust Optical"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    "151.212995070599",
-                    "-33.8601991234393"
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "Red"
-                },
-                "description": "Thursday 17 December 2020, 7:30pm to 9pm\n\nIndoor diners and staff (only) who attended this venue are a casual contacts and must get tested and self-isolate until they receive a negative result. You should continue to monitor for symptoms and if any symptoms occur, get tested again.",
-                "name": "Buckley\u2019s"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    "151.221168084628",
-                    "-33.8610554982234"
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "Red"
-                },
-                "description": "Thursday 17 December 2020, 8:40pm to 11pm\n\nAnyone who attended the evening showing of 'Prom' at this venue is a casual contact and must get tested and self-isolate until they receive a negative result. You should continue to monitor for symptoms and if any symptoms occur, get tested again.",
-                "name": "Westpac OpenAir Cinema"
             },
             "type": "Feature"
         },
@@ -1440,7 +437,7 @@
                 "_umap_options": {
                     "color": "Red"
                 },
-                "description": "Tuesday 22 December 2020, 11:15am to 11:45am\n\nAnyone who attended this venue is a casual contact and must get tested and self-isolate until they receive a negative result. You should continue to monitor for symptoms and if any symptoms occur, get tested again.",
+                "description": "Tuesday 22 December 2020, 11:15am to 11:45am\n\nGet tested immediately and self-isolate until you get a negative result",
                 "name": "Santa Claus Photo Booth"
             },
             "type": "Feature"
@@ -1457,7 +454,7 @@
                 "_umap_options": {
                     "color": "Red"
                 },
-                "description": "Sunday 27 December 2020, 11:30pm to 12:45pm\n\nAnyone who attended this venue for an hour or more during the time is considered a close contact, and must immediately get tested and isolate for 14 days, regardless of whether a negative result is received.",
+                "description": "Sunday 27 December 2020, 11:30am to 12:45pm\n\nGet tested immediately and self-isolate for 14 days",
                 "name": "Coffee Club - Stockland Shellharbour"
             },
             "type": "Feature"
@@ -1474,7 +471,7 @@
                 "_umap_options": {
                     "color": "Red"
                 },
-                "description": "Sunday 27 December 2020, 11:30pm to 12:45pm\n\nMonitor for symptoms and if they occur get tested immediately and self-isolate until you receive a negative result.",
+                "description": "Sunday 27 December 2020, 11:30pm to 12:45pm\n\nMonitor for symptoms",
                 "name": "Myer - Stockland Shellharbour"
             },
             "type": "Feature"
@@ -1491,7 +488,7 @@
                 "_umap_options": {
                     "color": "Red"
                 },
-                "description": "Monday 28 December 2020, 4.45pm to 5.20pm\n\nMonitor for symptoms and if they occur get tested immediately and self-isolate until you receive a negative result.",
+                "description": "Monday 28 December 2020, 4.45pm to 5.20pm\n\nMonitor for symptoms",
                 "name": "Coles - Figtree Grove Shopping Centre"
             },
             "type": "Feature"
@@ -1508,7 +505,7 @@
                 "_umap_options": {
                     "color": "Red"
                 },
-                "description": "Saturday 26 December 2020, 12:30pm to 1pm\n\nMonitor for symptoms and if they occur get tested immediately and self-isolate until you receive a negative result.",
+                "description": "Saturday 26 December 2020, 12:30pm to 1pm\n\nMonitor for symptoms",
                 "name": "Bunnings Greenacre"
             },
             "type": "Feature"
@@ -1525,7 +522,7 @@
                 "_umap_options": {
                     "color": "Red"
                 },
-                "description": "Sunday 27 December 2020, All day\n\nSaturday 26 December 2020, All day\n\nAnyone who attended this venue is a casual contact and must get tested and self-isolate until they receive a negative result. You should continue to monitor for symptoms and if any symptoms occur, get tested again.",
+                "description": "Sunday 27 December 2020, All day\n\nSaturday 26 December 2020, All day\n\nGet tested immediately and self-isolate until you get a negative result",
                 "name": "Greenwell and Thomas Pharmacy"
             },
             "type": "Feature"
@@ -1542,7 +539,7 @@
                 "_umap_options": {
                     "color": "Red"
                 },
-                "description": "Monday 28 December 2020, 10am to 12pm\n\nAnyone who attended this venue is a close contact  and must immediately get tested and self-isolate for 14 days regardless of the result.",
+                "description": "Monday 28 December 2020, 10am to 12pm\n\nGet tested immediately and self-isolate for 14 days",
                 "name": "Monkey Mania - Bankstown Sports Club"
             },
             "type": "Feature"
@@ -1559,7 +556,7 @@
                 "_umap_options": {
                     "color": "Red"
                 },
-                "description": "Monday 28 December 2020, 12pm to 2pm\n\nAnyone who attended this venue is a close contact  and must immediately get tested and self-isolate for 14 days regardless of the result.",
+                "description": "Monday 28 December 2020, 12pm to 2pm\n\nGet tested immediately and self-isolate for 14 days",
                 "name": "La Piazza - Bankstown Sports Club"
             },
             "type": "Feature"
@@ -1576,7 +573,7 @@
                 "_umap_options": {
                     "color": "Red"
                 },
-                "description": "Monday 28 December 2020, 10am to 2pm\n\nMonitor for symptoms and if they occur get tested immediately and self-isolate until you receive a negative result.",
+                "description": "Monday 28 December 2020, 10am to 2pm\n\nMonitor for symptoms",
                 "name": "Bankstown Sports Club"
             },
             "type": "Feature"
@@ -1593,7 +590,7 @@
                 "_umap_options": {
                     "color": "Red"
                 },
-                "description": "Wednesday 23 December 2020, 10am to 5pm\n\nAnyone who attended this venue is a casual contact and must get tested and self-isolate until they receive a negative result. You should continue to monitor for symptoms and if any symptoms occur, get tested again.",
+                "description": "Wednesday 23 December 2020, 10am to 5pm\n\nGet tested immediately and self-isolate until you get a negative result",
                 "name": "Priceline Pharmacy Liverpool"
             },
             "type": "Feature"
@@ -1610,7 +607,7 @@
                 "_umap_options": {
                     "color": "Red"
                 },
-                "description": "Thursday 24 December 2020, 1pm to 5pm\n\nAnyone who attended this venue is a casual contact and must get tested and self-isolate until they receive a negative result. You should continue to monitor for symptoms and if any symptoms occur, get tested again.",
+                "description": "Thursday 24 December 2020, 1pm to 5pm\n\nGet tested immediately and self-isolate until you get a negative result",
                 "name": "Priceline Pharmacy Bankstown"
             },
             "type": "Feature"
@@ -1627,7 +624,7 @@
                 "_umap_options": {
                     "color": "Red"
                 },
-                "description": "Thursday 24 December 2020, 11:15am to 12:30pm\n\nAnyone who attended this venue is a close contact  and must immediately get tested and self-isolate for 14 days regardless of the result.",
+                "description": "Thursday 24 December 2020, 11:15am to 12:30pm\n\nGet tested immediately and self-isolate for 14 days",
                 "name": "#Hair Management"
             },
             "type": "Feature"
@@ -1644,7 +641,7 @@
                 "_umap_options": {
                     "color": "Red"
                 },
-                "description": "Thursday 24 December 2020, 12:30pm to 1pm\n\nAnyone who attended this venue is a close contact  and must immediately get tested and self-isolate for 14 days regardless of the result.",
+                "description": "Thursday 24 December 2020, 12:30pm to 1pm\n\nGet tested immediately and self-isolate for 14 days",
                 "name": "Venus Nail Salon"
             },
             "type": "Feature"
@@ -1661,7 +658,7 @@
                 "_umap_options": {
                     "color": "Red"
                 },
-                "description": "Thursday 24 December 2020, 11am to 2pm\n\nMonitor for symptoms and if they occur get tested immediately and self-isolate until you receive a negative result.",
+                "description": "Thursday 24 December 2020, 11am to 2pm\n\nMonitor for symptoms",
                 "name": "Bass Hill Plaza"
             },
             "type": "Feature"
@@ -1678,7 +675,7 @@
                 "_umap_options": {
                     "color": "Red"
                 },
-                "description": "Sunday 27 December 2020, 12pm to 12:40pm\n\nMonitor for symptoms and if they occur get tested immediately and self-isolate until you receive a negative result.",
+                "description": "Sunday 27 December 2020, 12pm to 12:40pm\n\nMonitor for symptoms",
                 "name": "Martin Reserve"
             },
             "type": "Feature"
@@ -1695,7 +692,7 @@
                 "_umap_options": {
                     "color": "Red"
                 },
-                "description": "Thursday 24 December 2020, 9am to 12pm\n\nAnyone who attended this venue is a casual contact and must get tested and self-isolate until they receive a negative result. You should continue to monitor for symptoms and if any symptoms occur, get tested again.",
+                "description": "Thursday 24 December 2020, 9am to 12pm\n\nGet tested immediately and self-isolate until you get a negative result",
                 "name": "Priceline Pharmacy Rhodes"
             },
             "type": "Feature"
@@ -1712,7 +709,7 @@
                 "_umap_options": {
                     "color": "Red"
                 },
-                "description": "Monday 28 December 2020, 6pm to 11:30pm\n\nFollowing the visit of an infectious case, NSW Health is asking patrons of Earlwood Bardwell Park (EBP) RSL on December 28 from 6 \u2013 11:30pm to get tested and self-isolate  at home until further notice. NSW Health will call patrons to assess their potential exposure to the infectious case and advise about ongoing isolation requirements.",
+                "description": "Monday 28 December 2020, 6pm to 11:30pm\n\nGet tested immediately and self-isolate until you receive further advice from NSW Health",
                 "name": "Earlwood Bardwell Park RSL"
             },
             "type": "Feature"
@@ -1729,7 +726,7 @@
                 "_umap_options": {
                     "color": "Red"
                 },
-                "description": "Thursday 24 December 2020, 1:10pm to 1:30pm\n\nAnyone who attended this venue is a casual contact and must get tested and self-isolate until they receive a negative result. You should continue to monitor for symptoms and if any symptoms occur, get tested again.",
+                "description": "Thursday 24 December 2020, 1:10pm to 1:30pm\n\nGet tested immediately and self-isolate until you get a negative result",
                 "name": "BWS Bass Hill"
             },
             "type": "Feature"
@@ -1746,7 +743,7 @@
                 "_umap_options": {
                     "color": "Red"
                 },
-                "description": "Thursday 24 December 2020, 4:20pm to 4:45pm\n\nThursday 24 December 2020, 10am to 10:20pm\n\nMonitor for symptoms and if they occur get tested immediately and self-isolate until you receive a negative result.",
+                "description": "Thursday 24 December 2020, 4:20pm to 4:45pm\n\nThursday 24 December 2020, 10am to 10:20pm\n\nMonitor for symptoms",
                 "name": "Costco Lidcombe"
             },
             "type": "Feature"
@@ -1763,7 +760,7 @@
                 "_umap_options": {
                     "color": "Red"
                 },
-                "description": "Thursday 24 December 2020, 4pm to 4:20pm\n\nMonitor for symptoms and if they occur get tested immediately and self-isolate until you receive a negative result.",
+                "description": "Thursday 24 December 2020, 4pm to 4:20pm\n\nMonitor for symptoms",
                 "name": "Bunnings Lidcombe"
             },
             "type": "Feature"
@@ -1780,7 +777,7 @@
                 "_umap_options": {
                     "color": "Red"
                 },
-                "description": "Wednesday 23 December 2020, 10:15am to 10:45am\n\nMonitor for symptoms and if they occur get tested immediately and self-isolate until you receive a negative result.",
+                "description": "Wednesday 23 December 2020, 10:15am to 10:45am\n\nMonitor for symptoms",
                 "name": "BCF (Boating Fishing Camping) "
             },
             "type": "Feature"
@@ -1797,7 +794,7 @@
                 "_umap_options": {
                     "color": "Red"
                 },
-                "description": "Wednesday 23 December 2020, 6:40am to 7:10am\n\nMonitor for symptoms and if they occur get tested immediately and self-isolate until you receive a negative result.",
+                "description": "Wednesday 23 December 2020, 6:40am to 7:10am\n\nMonitor for symptoms",
                 "name": "Chullora Fish Market"
             },
             "type": "Feature"
@@ -1814,7 +811,7 @@
                 "_umap_options": {
                     "color": "Red"
                 },
-                "description": "Wednesday 23 December 2020, 1pm to 3pm\n\nMonitor for symptoms and if they occur get tested immediately and self-isolate until you receive a negative result.",
+                "description": "Wednesday 23 December 2020, 1pm to 3pm\n\nMonitor for symptoms",
                 "name": "Liverpool Westfield"
             },
             "type": "Feature"
@@ -1831,7 +828,7 @@
                 "_umap_options": {
                     "color": "Red"
                 },
-                "description": "Thursday 24 December 2020, 7pm to 7:15pm\n\nMonitor for symptoms and if they occur get tested immediately and self-isolate until you receive a negative result.",
+                "description": "Thursday 24 December 2020, 7pm to 7:15pm\n\nMonitor for symptoms",
                 "name": "Mancini\u2019s Pizza @ Belfield"
             },
             "type": "Feature"
@@ -1848,7 +845,7 @@
                 "_umap_options": {
                     "color": "Red"
                 },
-                "description": "Saturday 26 December 2020, 4:30pm to 5pm\n\nMonitor for symptoms and if they occur get tested immediately and self-isolate until you receive a negative result.",
+                "description": "Saturday 26 December 2020, 4:30pm to 5pm\n\nMonitor for symptoms",
                 "name": "7 Eleven Greenacre"
             },
             "type": "Feature"
@@ -1865,7 +862,7 @@
                 "_umap_options": {
                     "color": "Red"
                 },
-                "description": "Sunday 27 December 2020, 12pm to 12:40pm\n\nMonitor for symptoms and if they occur get tested immediately and self-isolate until you receive a negative result.",
+                "description": "Sunday 27 December 2020, 12pm to 12:40pm\n\nMonitor for symptoms",
                 "name": "Myer Stockland Shellharbour"
             },
             "type": "Feature"
@@ -1882,7 +879,7 @@
                 "_umap_options": {
                     "color": "Red"
                 },
-                "description": "Sunday 20 December 2020, 2:10pm to 2:45pm\n\nMonitor for symptoms and if they occur get tested immediately and self-isolate until you receive a negative result.",
+                "description": "Sunday 20 December 2020, 2:10pm to 2:45pm\n\nMonitor for symptoms",
                 "name": "David Jones Sydney"
             },
             "type": "Feature"
@@ -1899,7 +896,7 @@
                 "_umap_options": {
                     "color": "Red"
                 },
-                "description": "Sunday 20 December 2020, 3pm  to 3:45pm\n\nMonitor for symptoms and if they occur get tested immediately and self-isolate until you receive a negative result.",
+                "description": "Sunday 20 December 2020, 3pm  to 3:45pm\n\nMonitor for symptoms",
                 "name": "Kinokuniya Sydney"
             },
             "type": "Feature"
@@ -1916,7 +913,7 @@
                 "_umap_options": {
                     "color": "Red"
                 },
-                "description": "Sunday 20 December 2020, 4pm to 4:15pm\n\nMonitor for symptoms and if they occur get tested immediately and self-isolate until you receive a negative result.",
+                "description": "Sunday 20 December 2020, 4pm to 4:15pm\n\nMonitor for symptoms",
                 "name": "Uniqlo"
             },
             "type": "Feature"
@@ -1933,7 +930,7 @@
                 "_umap_options": {
                     "color": "Red"
                 },
-                "description": "Saturday 19 December 2020, All day\n\nAnyone who attended this venue  must immediately get tested and self-isolate until further notice.",
+                "description": "Saturday 19 December 2020, All day\n\nMonitor for symptoms",
                 "name": "The Swallowed Anchor"
             },
             "type": "Feature"
@@ -1950,7 +947,7 @@
                 "_umap_options": {
                     "color": "Red"
                 },
-                "description": "Thursday 31 December 2020, 8:30am to 5pm\n\nWednesday 30 December 2020, 12:45am to 9:15pm\n\nTuesday 29 December 2020, 1:45pm to 9:15pm\n\nMonday 28 December 2020, 8:30am to 7:15pm\n\nSunday 27 December 2020, 12:45pm to 8:15pm\n\nSaturday 26 December 2020, 9:55am to 7:15pm\n\nThursday 24 December 2020, 12:45pm to 9:15pm\n\nWednesday 23 December 2020, 12:45pm to 9:15pm\n\nTuesday 22 December 2020, 12:45pm to 9:15pm\n\nAnyone who attended the BWS store at Berala for any amount of time on the following dates and at the listed times is considered a close contact, and must immediately  and self-isolate for 14 days from the last date of exposure, regardless of whether a negative result is received.",
+                "description": "Thursday 31 December 2020, 8:30am to 3pm\n\nWednesday 30 December 2020, 12:45pm to 9:15pm\n\nTuesday 29 December 2020, 1:41pm to 9:15pm\n\nMonday 28 December 2020, 9:30am to 7:15pm\n\nSunday 27 December 2020, 12:39pm to 8:15pm\n\nSaturday 26 December 2020, 9:55am to 7:15pm\n\nThursday 24 December 2020, 12:40pm to 9:17pm\n\nWednesday 23 December 2020, 1:40pm to 9:15pm\n\nTuesday 22 December 2020, 12:41pm to 9:15pm\n\nGet tested immediately and self-isolate for 14 days",
                 "name": "BWS Berala"
             },
             "type": "Feature"
@@ -1967,7 +964,7 @@
                 "_umap_options": {
                     "color": "Red"
                 },
-                "description": "Monday 28 December 2020, 2pm to 4pm\n\nSaturday 26 December 2020, 2pm to 4pm\n\nAnyone who attended this venue is a casual contact and must get tested and self-isolate until they receive a negative result. You should continue to monitor for symptoms and if any symptoms occur, get tested again.",
+                "description": "Monday 28 December 2020, 2pm to 4pm\n\nSaturday 26 December 2020, 2pm to 4pm\n\nGet tested immediately and self-isolate until you get a negative result",
                 "name": "Pure Thai Berala"
             },
             "type": "Feature"
@@ -1984,7 +981,7 @@
                 "_umap_options": {
                     "color": "Red"
                 },
-                "description": "Tuesday 29 December 2020, 1:15pm to 1:35pm\n\nMonitor for symptoms and if they occur get tested immediately and self-isolate until you receive a negative result.",
+                "description": "Tuesday 29 December 2020, 1:15pm to 1:35pm\n\nMonitor for symptoms",
                 "name": "Bunnings Smithfield"
             },
             "type": "Feature"
@@ -2001,7 +998,7 @@
                 "_umap_options": {
                     "color": "Red"
                 },
-                "description": "Tuesday 29 December 2020 , 1:30pm to 3:30pm\n\nMonitor for symptoms and if they occur get tested immediately and self-isolate until you receive a negative result.",
+                "description": "Tuesday 29 December 2020 , 1:30pm to 3:30pm\n\nMonitor for symptoms",
                 "name": "TFO, Tile Factory Outlet Smithfield"
             },
             "type": "Feature"
@@ -2018,7 +1015,7 @@
                 "_umap_options": {
                     "color": "Red"
                 },
-                "description": "Sunday 20 December 2020, 9am to 9:10am\n\nMonitor for symptoms and if they occur get tested immediately and self-isolate until you receive a negative result.",
+                "description": "Sunday 20 December 2020, 9am to 9:10am\n\nMonitor for symptoms",
                 "name": "Woolworths Strathfield Plaza"
             },
             "type": "Feature"
@@ -2035,7 +1032,7 @@
                 "_umap_options": {
                     "color": "Red"
                 },
-                "description": "Monday 28 December 2020, 7:15pm to 7:45pm\n\nSaturday 26 December 2020, 7pm to 7:30pm\n\nThursday 24 December 2020, 9pm to 9:30pm\n\nMonitor for symptoms and if they occur get tested immediately and self-isolate until you receive a negative result.",
+                "description": "Monday 28 December 2020, 7:15pm to 7:45pm\n\nSaturday 26 December 2020, 7pm to 7:30pm\n\nThursday 24 December 2020, 9pm to 9:30pm\n\nMonitor for symptoms",
                 "name": "Woolworths Berala"
             },
             "type": "Feature"
@@ -2052,7 +1049,7 @@
                 "_umap_options": {
                     "color": "Red"
                 },
-                "description": "Monday 28 December 2020, 12:00pm to 1:00pm\n\nAnyone who attended this venue is a casual contact and must get tested and self-isolate until they receive a negative result. You should continue to monitor for symptoms and if any symptoms occur, get tested again.",
+                "description": "Monday 28 December 2020, 12:00pm to 1:00pm\n\nGet tested immediately and self-isolate until you get a negative result",
                 "name": "Bunnings Ashfield"
             },
             "type": "Feature"
@@ -2069,7 +1066,7 @@
                 "_umap_options": {
                     "color": "Red"
                 },
-                "description": "Monday 28 December 2020, 12:00pm to 12:15pm\n\nMonitor for symptoms and if they occur get tested immediately and self-isolate until you receive a negative result.",
+                "description": "Monday 28 December 2020, 12:00pm to 12:15pm\n\nMonitor for symptoms",
                 "name": "Clark Rubber Haberfield"
             },
             "type": "Feature"
@@ -2086,7 +1083,7 @@
                 "_umap_options": {
                     "color": "Red"
                 },
-                "description": "Wednesday 30 December 2020, 5:30pm to 7pm\n\nAnyone who attended this venue during this time for one hour or more, must get tested and self-isolate for 14 days. Anyone who attended this venue during this time for less than one hour get tested immediately and self-isolate until you receive a negative result.",
+                "description": "Wednesday 30 December 2020, 5:30pm to 7pm\n\nGet tested immediately and self-isolate for 14 days",
                 "name": "Great Southern Hotel"
             },
             "type": "Feature"
@@ -2103,25 +1100,8 @@
                 "_umap_options": {
                     "color": "Red"
                 },
-                "description": "Thursday 31 December 2020, 9am to 10am\n\nAnyone who attended this venue is a casual contact and must get tested and self-isolate until they receive a negative result. You should continue to monitor for symptoms and if any symptoms occur, get tested again.",
+                "description": "Thursday 31 December 2020, 9am to 10am\n\nGet tested immediately and self-isolate until you get a negative result",
                 "name": "Bermi's Beachside Cafe"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    "151.2508445",
-                    "-33.8906254"
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "Red"
-                },
-                "description": "Saturday 19 December 2020, 10am to 1pm\n\nTuesday 15 December 2020, 1pm to 2:30pm\n\nMonitor for symptoms and if they occur get tested immediately and self-isolate until you receive a negative result.",
-                "name": "Westfield Bondi Junction"
             },
             "type": "Feature"
         },
@@ -2137,7 +1117,7 @@
                 "_umap_options": {
                     "color": "Red"
                 },
-                "description": "Monday 28 December 2020, 1pm to 2pm\n\nMonitor for symptoms and if they occur get tested immediately and self-isolate until you receive a negative result.",
+                "description": "Monday 28 December 2020, 1pm to 2pm\n\nMonitor for symptoms",
                 "name": "Culture Kings"
             },
             "type": "Feature"
@@ -2154,7 +1134,7 @@
                 "_umap_options": {
                     "color": "Red"
                 },
-                "description": "Tuesday 29 December 2020, 4.30pm to 5pm\n\nAnyone who attended this venue is a casual contact and must get tested and self-isolate until they receive a negative result. You should continue to monitor for symptoms and if any symptoms occur, get tested again.",
+                "description": "Tuesday 29 December 2020, 4.30pm to 5pm\n\nMonitor for symptoms",
                 "name": "Australian Motor Traders"
             },
             "type": "Feature"
@@ -2171,7 +1151,7 @@
                 "_umap_options": {
                     "color": "Red"
                 },
-                "description": "Tuesday 29 December 2020, 3.45pm to 4.45pm\n\nMonday 21 December 2020, 8:30pm to 9:00pm\n\nAnyone who attended this venue is a casual contact and must get tested and self-isolate until they receive a negative result. You should continue to monitor for symptoms and if any symptoms occur, get tested again.",
+                "description": "Tuesday 29 December 2020, 3.45pm to 4.45pm\n\nMonday 21 December 2020, 8:30pm to 9:00pm\n\nGet tested immediately and self-isolate until you get a negative result",
                 "name": "Officeworks Punchbowl"
             },
             "type": "Feature"
@@ -2188,7 +1168,7 @@
                 "_umap_options": {
                     "color": "Red"
                 },
-                "description": "Monday 28 December 2020, 2.40pm to 3.20pm\n\nMonitor for symptoms and if they occur get tested immediately and self-isolate until you receive a negative result.",
+                "description": "Monday 28 December 2020, 2.40pm to 3.20pm\n\nMonitor for symptoms",
                 "name": "Westpoint Blacktown"
             },
             "type": "Feature"
@@ -2205,7 +1185,7 @@
                 "_umap_options": {
                     "color": "Red"
                 },
-                "description": "Monday 28 December 2020, 3.20pm to 4pm\n\nMonitor for symptoms and if they occur get tested immediately and self-isolate until you receive a negative result.",
+                "description": "Monday 28 December 2020, 3.20pm to 4pm\n\nMonitor for symptoms",
                 "name": "El Jannah"
             },
             "type": "Feature"
@@ -2222,7 +1202,7 @@
                 "_umap_options": {
                     "color": "Red"
                 },
-                "description": "Wednesday 30 December 2020, 12.15pm to 1pm\n\nMonitor for symptoms and if they occur get tested immediately and self-isolate until you receive a negative result.",
+                "description": "Wednesday 30 December 2020, 12.15pm to 1pm\n\nMonitor for symptoms",
                 "name": "Service NSW, Blacktown Service Centre"
             },
             "type": "Feature"
@@ -2239,7 +1219,7 @@
                 "_umap_options": {
                     "color": "Red"
                 },
-                "description": "Tuesday 29 December 2020, 8pm to 8.45pm\n\nMonitor for symptoms and if they occur get tested immediately and self-isolate until you receive a negative result.",
+                "description": "Tuesday 29 December 2020, 8pm to 8.45pm\n\nMonitor for symptoms",
                 "name": "Hills Campus Carpark, Hillsong Church"
             },
             "type": "Feature"
@@ -2256,7 +1236,7 @@
                 "_umap_options": {
                     "color": "Red"
                 },
-                "description": "Wednesday 30 December 2020, 6.30am to 1.30pm\n\nFriday 1 January 2020, 7am to 10am\n\nMonitor for symptoms and if they occur get tested immediately and self-isolate until you receive a negative result.",
+                "description": "Wednesday 30 December 2020, 6.30am to 1.30pm\n\nFriday 1 January 2021, 7am to 10am\n\nMonitor for symptoms",
                 "name": "Woolworths \u2013 Eastgardens Shopping Centre"
             },
             "type": "Feature"
@@ -2273,7 +1253,7 @@
                 "_umap_options": {
                     "color": "Red"
                 },
-                "description": "Thursday 31 December 2020, 1.45pm to 2pm\n\nMonitor for symptoms and if they occur get tested immediately and self-isolate until you receive a negative result.",
+                "description": "Thursday 31 December 2020, 1.45pm to 2pm\n\nMonitor for symptoms",
                 "name": "Hariri Chickens"
             },
             "type": "Feature"
@@ -2290,8 +1270,93 @@
                 "_umap_options": {
                     "color": "Red"
                 },
-                "description": "Monday 28 December 2020, 1:30pm to 2pm\n\nMonitor for symptoms and if they occur get tested immediately and self-isolate until you receive a negative result.",
+                "description": "Monday 28 December 2020, 1:30pm to 2pm\n\nMonitor for symptoms",
                 "name": "Cincotta Discount Chemist Campsie"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "151.032148797673",
+                    "-33.8716308806554"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "_umap_options": {
+                    "color": "Red"
+                },
+                "description": "Sunday 20 December 2020, 12:30pm to 2pm\n\nGet tested immediately and self-isolate until you get a negative result",
+                "name": "BWS Berala"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "151.032138069158",
+                    "-33.8716308806555"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "_umap_options": {
+                    "color": "Red"
+                },
+                "description": "Sunday 20 December 2020, 12:30pm to 2:00pm\n\nGet tested immediately and self-isolate until you get a negative result",
+                "name": "Woolworths Berala"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "151.043123730771",
+                    "-33.8465583766725"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "_umap_options": {
+                    "color": "Red"
+                },
+                "description": "Wednesday 30 December 2020, 10:10am to 12:10pm\n\nGet tested immediately and self-isolate for 14 days",
+                "name": "Reading Cinema Auburn"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "151.048621826958",
+                    "-33.84861265781"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "_umap_options": {
+                    "color": "Red"
+                },
+                "description": "Thursday 31 December 2020, 12:15pm to 3:45pm\n\nMonitor for symptoms",
+                "name": "Woolworths Lidcombe"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "151.043077142299",
+                    "-33.8659872139953"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "_umap_options": {
+                    "color": "Red"
+                },
+                "description": "Thursday 31 December 2020, 10:30am to 12pm\n\nGet tested immediately and self-isolate for 14 days",
+                "name": "OKS Beauty and Hair"
             },
             "type": "Feature"
         },
@@ -5908,7 +4973,7 @@
                     "color": "DarkGrey",
                     "iconUrl": "/uploads/pictogram/rail-24-white.png"
                 },
-                "description": "Train\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
+                "description": "Train\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
                 "name": "Albion Park train station"
             },
             "type": "Feature"
@@ -5962,7 +5027,7 @@
                     "color": "DarkGrey",
                     "iconUrl": "/uploads/pictogram/rail-24-white.png"
                 },
-                "description": "Train\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
+                "description": "Train\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
                 "name": "Austinmer train station"
             },
             "type": "Feature"
@@ -5980,7 +5045,7 @@
                     "color": "DarkGrey",
                     "iconUrl": "/uploads/pictogram/rail-24-white.png"
                 },
-                "description": "Train\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
+                "description": "Train\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
                 "name": "Banksia train station"
             },
             "type": "Feature"
@@ -5998,7 +5063,7 @@
                     "color": "DarkGrey",
                     "iconUrl": "/uploads/pictogram/rail-24-white.png"
                 },
-                "description": "Train\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
+                "description": "Train\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
                 "name": "Bellambi train station"
             },
             "type": "Feature"
@@ -6052,7 +5117,7 @@
                     "color": "DarkGrey",
                     "iconUrl": "/uploads/pictogram/rail-24-white.png"
                 },
-                "description": "Train\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
+                "description": "Train\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
                 "name": "Bombo train station"
             },
             "type": "Feature"
@@ -6088,7 +5153,7 @@
                     "color": "DarkGrey",
                     "iconUrl": "/uploads/pictogram/rail-24-white.png"
                 },
-                "description": "Train\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
+                "description": "Train\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
                 "name": "Bulli train station"
             },
             "type": "Feature"
@@ -6124,7 +5189,7 @@
                     "color": "DarkGrey",
                     "iconUrl": "/uploads/pictogram/rail-24-white.png"
                 },
-                "description": "Train\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
+                "description": "Train\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
                 "name": "Carlton train station"
             },
             "type": "Feature"
@@ -6196,7 +5261,7 @@
                     "color": "DarkGrey",
                     "iconUrl": "/uploads/pictogram/rail-24-white.png"
                 },
-                "description": "Train\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
+                "description": "Train\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
                 "name": "Coledale train station"
             },
             "type": "Feature"
@@ -6214,7 +5279,7 @@
                     "color": "DarkGrey",
                     "iconUrl": "/uploads/pictogram/rail-24-white.png"
                 },
-                "description": "Train\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
+                "description": "Train\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
                 "name": "Como train station"
             },
             "type": "Feature"
@@ -6232,7 +5297,7 @@
                     "color": "DarkGrey",
                     "iconUrl": "/uploads/pictogram/rail-24-white.png"
                 },
-                "description": "Train\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
+                "description": "Train\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
                 "name": "Coniston train station"
             },
             "type": "Feature"
@@ -6286,7 +5351,7 @@
                     "color": "DarkGrey",
                     "iconUrl": "/uploads/pictogram/rail-24-white.png"
                 },
-                "description": "Train\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
+                "description": "Train\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
                 "name": "Cronulla train station"
             },
             "type": "Feature"
@@ -6304,7 +5369,7 @@
                     "color": "DarkGrey",
                     "iconUrl": "/uploads/pictogram/rail-24-white.png"
                 },
-                "description": "Train\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
+                "description": "Train\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
                 "name": "Dapto train station"
             },
             "type": "Feature"
@@ -6358,7 +5423,7 @@
                     "color": "DarkGrey",
                     "iconUrl": "/uploads/pictogram/rail-24-white.png"
                 },
-                "description": "Train\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
+                "description": "Train\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
                 "name": "Erskineville train station"
             },
             "type": "Feature"
@@ -6448,7 +5513,7 @@
                     "color": "DarkGrey",
                     "iconUrl": "/uploads/pictogram/rail-24-white.png"
                 },
-                "description": "Train\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
+                "description": "Train\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
                 "name": "Helensburgh train station"
             },
             "type": "Feature"
@@ -6466,7 +5531,7 @@
                     "color": "DarkGrey",
                     "iconUrl": "/uploads/pictogram/rail-24-white.png"
                 },
-                "description": "Train\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
+                "description": "Train\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
                 "name": "Hurstville train station"
             },
             "type": "Feature"
@@ -6484,7 +5549,7 @@
                     "color": "DarkGrey",
                     "iconUrl": "/uploads/pictogram/rail-24-white.png"
                 },
-                "description": "Train\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
+                "description": "Train\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
                 "name": "Jannali train station"
             },
             "type": "Feature"
@@ -6502,7 +5567,7 @@
                     "color": "DarkGrey",
                     "iconUrl": "/uploads/pictogram/rail-24-white.png"
                 },
-                "description": "Train\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
+                "description": "Train\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
                 "name": "Kembla Grange train station"
             },
             "type": "Feature"
@@ -6520,7 +5585,7 @@
                     "color": "DarkGrey",
                     "iconUrl": "/uploads/pictogram/rail-24-white.png"
                 },
-                "description": "Train\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
+                "description": "Train\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
                 "name": "Kiama train station"
             },
             "type": "Feature"
@@ -6700,7 +5765,7 @@
                     "color": "DarkGrey",
                     "iconUrl": "/uploads/pictogram/rail-24-white.png"
                 },
-                "description": "Train\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
+                "description": "Train\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
                 "name": "Museum train station"
             },
             "type": "Feature"
@@ -6718,7 +5783,7 @@
                     "color": "DarkGrey",
                     "iconUrl": "/uploads/pictogram/rail-24-white.png"
                 },
-                "description": "Train\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
+                "description": "Train\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
                 "name": "North Wollongong train station"
             },
             "type": "Feature"
@@ -6736,7 +5801,7 @@
                     "color": "DarkGrey",
                     "iconUrl": "/uploads/pictogram/rail-24-white.png"
                 },
-                "description": "Train\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
+                "description": "Train\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
                 "name": "Oak Flats train station"
             },
             "type": "Feature"
@@ -6754,7 +5819,7 @@
                     "color": "DarkGrey",
                     "iconUrl": "/uploads/pictogram/rail-24-white.png"
                 },
-                "description": "Train\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
+                "description": "Train\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
                 "name": "Oatley train station"
             },
             "type": "Feature"
@@ -6772,7 +5837,7 @@
                     "color": "DarkGrey",
                     "iconUrl": "/uploads/pictogram/rail-24-white.png"
                 },
-                "description": "Train\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
+                "description": "Train\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
                 "name": "Otford train station"
             },
             "type": "Feature"
@@ -6826,7 +5891,7 @@
                     "color": "DarkGrey",
                     "iconUrl": "/uploads/pictogram/rail-24-white.png"
                 },
-                "description": "Train\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
+                "description": "Train\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
                 "name": "Port Kembla North train station"
             },
             "type": "Feature"
@@ -6862,7 +5927,7 @@
                     "color": "DarkGrey",
                     "iconUrl": "/uploads/pictogram/rail-24-white.png"
                 },
-                "description": "Train\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
+                "description": "Train\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
                 "name": "Rockdale train station"
             },
             "type": "Feature"
@@ -6880,7 +5945,7 @@
                     "color": "DarkGrey",
                     "iconUrl": "/uploads/pictogram/rail-24-white.png"
                 },
-                "description": "Train\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
+                "description": "Train\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
                 "name": "Scarborough train station"
             },
             "type": "Feature"
@@ -6988,7 +6053,7 @@
                     "color": "DarkGrey",
                     "iconUrl": "/uploads/pictogram/rail-24-white.png"
                 },
-                "description": "Train\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
+                "description": "Train\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
                 "name": "Sydenham train station"
             },
             "type": "Feature"
@@ -7006,7 +6071,7 @@
                     "color": "DarkGrey",
                     "iconUrl": "/uploads/pictogram/rail-24-white.png"
                 },
-                "description": "Train\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
+                "description": "Train\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
                 "name": "Tempe train station"
             },
             "type": "Feature"
@@ -7042,7 +6107,7 @@
                     "color": "DarkGrey",
                     "iconUrl": "/uploads/pictogram/rail-24-white.png"
                 },
-                "description": "Train\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
+                "description": "Train\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
                 "name": "Town Hall train station"
             },
             "type": "Feature"
@@ -7078,7 +6143,7 @@
                     "color": "DarkGrey",
                     "iconUrl": "/uploads/pictogram/rail-24-white.png"
                 },
-                "description": "Train\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
+                "description": "Train\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
                 "name": "Unanderra train station"
             },
             "type": "Feature"
@@ -7114,7 +6179,7 @@
                     "color": "DarkGrey",
                     "iconUrl": "/uploads/pictogram/rail-24-white.png"
                 },
-                "description": "Train\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
+                "description": "Train\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
                 "name": "Wolli Creek train station"
             },
             "type": "Feature"
@@ -7150,7 +6215,7 @@
                     "color": "DarkGrey",
                     "iconUrl": "/uploads/pictogram/rail-24-white.png"
                 },
-                "description": "Train\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
+                "description": "Train\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
                 "name": "Wombarra train station"
             },
             "type": "Feature"
@@ -7186,7 +6251,7 @@
                     "color": "DarkGrey",
                     "iconUrl": "/uploads/pictogram/rail-24-white.png"
                 },
-                "description": "Train\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
+                "description": "Train\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
                 "name": "Woonona train station"
             },
             "type": "Feature"
