@@ -3,74 +3,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    "150.912638",
-                    "-33.7523608"
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "Red"
-                },
-                "description": "Sunday 20 December 2020, 9:30am to 11:45am\n\nGet tested immediately and self-isolate for 14 days",
-                "name": "Anytime Fitness Kings Park"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    "151.4131301",
-                    "-33.466519"
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "LightPink"
-                },
-                "description": "Sunday 20 December 2020, 7:30pm to 8:30pm\n\nGet tested and immediately self-isolate until you receive a negative result",
-                "name": "Avoca Beach Hotel, Saltwater Bistro"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    "151.0452721",
-                    "-33.84675691"
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "Red"
-                },
-                "description": "Sunday 20 December 2020, 2:50pm to 4pm\n\nGet tested immediately and self-isolate for 14 days",
-                "name": "Chicago Jones Coffee & Chocolate Maison"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    "151.0153818",
-                    "-33.8644835"
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "Red"
-                },
-                "description": "Sunday 20 December 2020, 11:15am to 12:15pm\n\nGet tested immediately and self-isolate for 14 days",
-                "name": "Rosnay Golf Club Bistro"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     "151.175229",
                     "-33.8566409"
                 ],
@@ -122,40 +54,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    "151.1919483",
-                    "-33.88286492"
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "Red"
-                },
-                "description": "Sunday 20 December 2020, 11am to 12:30pm\n\nGet tested immediately and self-isolate until you get a negative result",
-                "name": "Sappho Books Cafe and Bar"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    "151.1673033",
-                    "-33.8645707"
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "Red"
-                },
-                "description": "Sunday 20 December 2020, 11am to 11:30am\n\nGet tested immediately and self-isolate until you get a negative result",
-                "name": "Sir Reuben"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     "151.144158",
                     "-33.8566082"
                 ],
@@ -167,23 +65,6 @@
                 },
                 "description": "Tuesday 22 December 2020, 6pm to 6:15pm\n\nGet tested immediately and self-isolate until you get a negative result",
                 "name": "Zeus Street Greek"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    "151.0439114",
-                    "-33.8466803"
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "LightPink"
-                },
-                "description": "Sunday 20 December 2020, 4pm to 5pm\n\nMonitor for symptoms",
-                "name": "Auburn Redyard Entertainment Centre"
             },
             "type": "Feature"
         },
@@ -207,23 +88,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    "150.9207368",
-                    "-33.7178651"
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "LightPink"
-                },
-                "description": "Sunday 20 December 2020, 7am to 2pm\n\nSaturday 19 December 2020, 7am to 3:30pm\n\nMonitor for symptoms",
-                "name": "Coles Stanhope Gardens"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     "151.206746",
                     "-33.87207"
                 ],
@@ -235,23 +99,6 @@
                 },
                 "description": "Wednesday 23 December 2020, 10:15am to 11am\n\nMonitor for symptoms",
                 "name": "QVB - Level 3 - Santa Photos"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    "151.2470581",
-                    "-33.8731558"
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "LightPink"
-                },
-                "description": "Sunday 20 December 2020, 12:15pm to 1pm\n\nMonitor for symptoms",
-                "name": "Star Nails"
             },
             "type": "Feature"
         },
@@ -709,7 +556,7 @@
                 "_umap_options": {
                     "color": "Red"
                 },
-                "description": "Monday 28 December 2020, 6pm to 11:30pm\n\nGet tested immediately and self-isolate until you receive further advice from NSW Health",
+                "description": "Monday 28 December 2020, 8:52pm to 11:30pm\n\nGet tested immediately and self-isolate for 14 days",
                 "name": "Earlwood Bardwell Park RSL"
             },
             "type": "Feature"
@@ -870,57 +717,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    "151.210289408092",
-                    "-33.8701041762798"
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "LightPink"
-                },
-                "description": "Sunday 20 December 2020, 2:10pm to 2:45pm\n\nMonitor for symptoms",
-                "name": "David Jones Sydney"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    "151.207317126748",
-                    "-33.8726010040829"
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "LightPink"
-                },
-                "description": "Sunday 20 December 2020, 3pm  to 3:45pm\n\nMonitor for symptoms",
-                "name": "Kinokuniya Sydney"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    "151.208222635075",
-                    "-33.8693630743465"
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "LightPink"
-                },
-                "description": "Sunday 20 December 2020, 4pm to 4:15pm\n\nMonitor for symptoms",
-                "name": "Uniqlo"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     "150.89528721534",
                     "-34.4245470074059"
                 ],
@@ -932,23 +728,6 @@
                 },
                 "description": "Saturday 19 December 2020, All day\n\nMonitor for symptoms",
                 "name": "The Swallowed Anchor"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    "151.032148797673",
-                    "-33.8716308806554"
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "Red"
-                },
-                "description": "Thursday 31 December 2020, 8:30am to 3pm\n\nWednesday 30 December 2020, 12:45pm to 9:15pm\n\nTuesday 29 December 2020, 1:41pm to 9:15pm\n\nMonday 28 December 2020, 9:30am to 7:15pm\n\nSunday 27 December 2020, 12:39pm to 8:15pm\n\nSaturday 26 December 2020, 9:55am to 7:15pm\n\nThursday 24 December 2020, 12:40pm to 9:17pm\n\nWednesday 23 December 2020, 1:40pm to 9:15pm\n\nTuesday 22 December 2020, 12:41pm to 9:15pm\n\nGet tested immediately and self-isolate for 14 days",
-                "name": "BWS Berala"
             },
             "type": "Feature"
         },
@@ -1006,23 +785,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    "151.093155740002",
-                    "-33.8730181885381"
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "LightPink"
-                },
-                "description": "Sunday 20 December 2020, 9am to 9:10am\n\nMonitor for symptoms",
-                "name": "Woolworths Strathfield Plaza"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     "151.032138069158",
                     "-33.8716308806555"
                 ],
@@ -1030,9 +792,9 @@
             },
             "properties": {
                 "_umap_options": {
-                    "color": "LightPink"
+                    "color": "Red"
                 },
-                "description": "Monday 28 December 2020, 7:15pm to 7:45pm\n\nSaturday 26 December 2020, 7pm to 7:30pm\n\nThursday 24 December 2020, 9pm to 9:30pm\n\nMonitor for symptoms",
+                "description": "Thursday 31 December 2020, All day\n\nWednesday 30 December 2020, All day\n\nTuesday 29 December 2020, All day\n\nMonday 28 December 2020, All day\n\nSunday 27 December 2020, All day\n\nSaturday 26 December 2020, All day\n\nThursday 24 December 2020, All day\n\nTuesday 22 December 2020, All day\n\nSunday 20 December 2020, 12:30pm to 2pm\n\nGet tested immediately and self-isolate until you get a negative result",
                 "name": "Woolworths Berala"
             },
             "type": "Feature"
@@ -1278,40 +1040,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    "151.032148797673",
-                    "-33.8716308806554"
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "Red"
-                },
-                "description": "Sunday 20 December 2020, 12:30pm to 2pm\n\nGet tested immediately and self-isolate until you get a negative result",
-                "name": "BWS Berala"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    "151.032138069158",
-                    "-33.8716308806555"
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "Red"
-                },
-                "description": "Sunday 20 December 2020, 12:30pm to 2:00pm\n\nGet tested immediately and self-isolate until you get a negative result",
-                "name": "Woolworths Berala"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     "151.043123730771",
                     "-33.8465583766725"
                 ],
@@ -1363,1843 +1091,17 @@
         {
             "geometry": {
                 "coordinates": [
-                    151.228489541662,
-                    -33.8761604040103
+                    "151.032148797673",
+                    "-33.8716308806554"
                 ],
                 "type": "Point"
             },
             "properties": {
                 "_umap_options": {
-                    "color": "DarkTurquoise",
-                    "iconClass": "Circle",
-                    "iconUrl": "/uploads/pictogram/bus-24_1.png"
+                    "color": "Red"
                 },
-                "description": "Sunday 20 December\n\t\t\t10:33am to 10:45am\n\n\t\t\tFrom New South Head Rd opp New Beach Road\n\t\t\tTo Town Hall Station, Park Street, Stand J\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.",
-                "name": "324 bus line"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    151.231199068014,
-                    -33.876562769173
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "DarkTurquoise",
-                    "iconClass": "Circle",
-                    "iconUrl": "/uploads/pictogram/bus-24_1.png"
-                },
-                "description": "Sunday 20 December\n\t\t\t10:33am to 10:45am\n\n\t\t\tFrom New South Head Rd opp New Beach Road\n\t\t\tTo Town Hall Station, Park Street, Stand J\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.",
-                "name": "324 bus line"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    151.236022870176,
-                    -33.8793068856802
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "DarkTurquoise",
-                    "iconClass": "Circle",
-                    "iconUrl": "/uploads/pictogram/bus-24_1.png"
-                },
-                "description": "Sunday 20 December\n\t\t\t10:33am to 10:45am\n\n\t\t\tFrom New South Head Rd opp New Beach Road\n\t\t\tTo Town Hall Station, Park Street, Stand J\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.",
-                "name": "324 bus line"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    151.235990519012,
-                    -33.8793079997919
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "DarkTurquoise",
-                    "iconClass": "Circle",
-                    "iconUrl": "/uploads/pictogram/bus-24_1.png"
-                },
-                "description": "Sunday 20 December\n\t\t\t10:33am to 10:45am\n\n\t\t\tFrom New South Head Rd opp New Beach Road\n\t\t\tTo Town Hall Station, Park Street, Stand J\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.",
-                "name": "324 bus line"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    151.203117940833,
-                    -33.8636592973591
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "DarkTurquoise",
-                    "iconClass": "Circle",
-                    "iconUrl": "/uploads/pictogram/bus-24_1.png"
-                },
-                "description": "Sunday 20 December\n\t\t\t10:33am to 10:45am\n\n\t\t\tFrom New South Head Rd opp New Beach Road\n\t\t\tTo Town Hall Station, Park Street, Stand J\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.",
-                "name": "324 bus line"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    151.20330220753,
-                    -33.8572920333973
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "DarkTurquoise",
-                    "iconClass": "Circle",
-                    "iconUrl": "/uploads/pictogram/bus-24_1.png"
-                },
-                "description": "Sunday 20 December\n\t\t\t10:33am to 10:45am\n\n\t\t\tFrom New South Head Rd opp New Beach Road\n\t\t\tTo Town Hall Station, Park Street, Stand J\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.",
-                "name": "324 bus line"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    151.206639846382,
-                    -33.8562049077193
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "DarkTurquoise",
-                    "iconClass": "Circle",
-                    "iconUrl": "/uploads/pictogram/bus-24_1.png"
-                },
-                "description": "Sunday 20 December\n\t\t\t10:33am to 10:45am\n\n\t\t\tFrom New South Head Rd opp New Beach Road\n\t\t\tTo Town Hall Station, Park Street, Stand J\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.",
-                "name": "324 bus line"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    151.272715981657,
-                    -33.8654333897155
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "DarkTurquoise",
-                    "iconClass": "Circle",
-                    "iconUrl": "/uploads/pictogram/bus-24_1.png"
-                },
-                "description": "Sunday 20 December\n\t\t\t10:33am to 10:45am\n\n\t\t\tFrom New South Head Rd opp New Beach Road\n\t\t\tTo Town Hall Station, Park Street, Stand J\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.",
-                "name": "324 bus line"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    151.225765893133,
-                    -33.876127863109
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "DarkTurquoise",
-                    "iconClass": "Circle",
-                    "iconUrl": "/uploads/pictogram/bus-24_1.png"
-                },
-                "description": "Sunday 20 December\n\t\t\t10:33am to 10:45am\n\n\t\t\tFrom New South Head Rd opp New Beach Road\n\t\t\tTo Town Hall Station, Park Street, Stand J\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.",
-                "name": "324 bus line"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    151.223709246513,
-                    -33.8749461396184
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "DarkTurquoise",
-                    "iconClass": "Circle",
-                    "iconUrl": "/uploads/pictogram/bus-24_1.png"
-                },
-                "description": "Sunday 20 December\n\t\t\t10:33am to 10:45am\n\n\t\t\tFrom New South Head Rd opp New Beach Road\n\t\t\tTo Town Hall Station, Park Street, Stand J\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.",
-                "name": "324 bus line"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    151.284338673498,
-                    -33.8542447883237
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "DarkTurquoise",
-                    "iconClass": "Circle",
-                    "iconUrl": "/uploads/pictogram/bus-24_1.png"
-                },
-                "description": "Sunday 20 December\n\t\t\t10:33am to 10:45am\n\n\t\t\tFrom New South Head Rd opp New Beach Road\n\t\t\tTo Town Hall Station, Park Street, Stand J\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.",
-                "name": "324 bus line"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    151.272186863477,
-                    -33.8639201395192
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "DarkTurquoise",
-                    "iconClass": "Circle",
-                    "iconUrl": "/uploads/pictogram/bus-24_1.png"
-                },
-                "description": "Sunday 20 December\n\t\t\t10:33am to 10:45am\n\n\t\t\tFrom New South Head Rd opp New Beach Road\n\t\t\tTo Town Hall Station, Park Street, Stand J\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.",
-                "name": "324 bus line"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    151.234212466993,
-                    -33.877648362327
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "DarkTurquoise",
-                    "iconClass": "Circle",
-                    "iconUrl": "/uploads/pictogram/bus-24_1.png"
-                },
-                "description": "Sunday 20 December\n\t\t\t10:33am to 10:45am\n\n\t\t\tFrom New South Head Rd opp New Beach Road\n\t\t\tTo Town Hall Station, Park Street, Stand J\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.",
-                "name": "324 bus line"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    151.269994291714,
-                    -33.869329925079
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "DarkTurquoise",
-                    "iconClass": "Circle",
-                    "iconUrl": "/uploads/pictogram/bus-24_1.png"
-                },
-                "description": "Sunday 20 December\n\t\t\t10:33am to 10:45am\n\n\t\t\tFrom New South Head Rd opp New Beach Road\n\t\t\tTo Town Hall Station, Park Street, Stand J\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.",
-                "name": "324 bus line"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    151.271134583383,
-                    -33.8675064457092
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "DarkTurquoise",
-                    "iconClass": "Circle",
-                    "iconUrl": "/uploads/pictogram/bus-24_1.png"
-                },
-                "description": "Sunday 20 December\n\t\t\t10:33am to 10:45am\n\n\t\t\tFrom New South Head Rd opp New Beach Road\n\t\t\tTo Town Hall Station, Park Street, Stand J\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.",
-                "name": "324 bus line"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    151.239876029662,
-                    -33.8785884990118
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "DarkTurquoise",
-                    "iconClass": "Circle",
-                    "iconUrl": "/uploads/pictogram/bus-24_1.png"
-                },
-                "description": "Sunday 20 December\n\t\t\t10:33am to 10:45am\n\n\t\t\tFrom New South Head Rd opp New Beach Road\n\t\t\tTo Town Hall Station, Park Street, Stand J\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.",
-                "name": "324 bus line"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    151.243086279532,
-                    -33.8775407948927
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "DarkTurquoise",
-                    "iconClass": "Circle",
-                    "iconUrl": "/uploads/pictogram/bus-24_1.png"
-                },
-                "description": "Sunday 20 December\n\t\t\t10:33am to 10:45am\n\n\t\t\tFrom New South Head Rd opp New Beach Road\n\t\t\tTo Town Hall Station, Park Street, Stand J\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.",
-                "name": "324 bus line"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    151.246358380321,
-                    -33.8753466464006
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "DarkTurquoise",
-                    "iconClass": "Circle",
-                    "iconUrl": "/uploads/pictogram/bus-24_1.png"
-                },
-                "description": "Sunday 20 December\n\t\t\t10:33am to 10:45am\n\n\t\t\tFrom New South Head Rd opp New Beach Road\n\t\t\tTo Town Hall Station, Park Street, Stand J\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.",
-                "name": "324 bus line"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    151.252003788916,
-                    -33.8700521730465
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "DarkTurquoise",
-                    "iconClass": "Circle",
-                    "iconUrl": "/uploads/pictogram/bus-24_1.png"
-                },
-                "description": "Sunday 20 December\n\t\t\t10:33am to 10:45am\n\n\t\t\tFrom New South Head Rd opp New Beach Road\n\t\t\tTo Town Hall Station, Park Street, Stand J\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.",
-                "name": "324 bus line"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    151.247100301938,
-                    -33.8735371182341
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "DarkTurquoise",
-                    "iconClass": "Circle",
-                    "iconUrl": "/uploads/pictogram/bus-24_1.png"
-                },
-                "description": "Sunday 20 December\n\t\t\t10:33am to 10:45am\n\n\t\t\tFrom New South Head Rd opp New Beach Road\n\t\t\tTo Town Hall Station, Park Street, Stand J\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.",
-                "name": "324 bus line"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    151.2509656307,
-                    -33.8713313838479
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "DarkTurquoise",
-                    "iconClass": "Circle",
-                    "iconUrl": "/uploads/pictogram/bus-24_1.png"
-                },
-                "description": "Sunday 20 December\n\t\t\t10:33am to 10:45am\n\n\t\t\tFrom New South Head Rd opp New Beach Road\n\t\t\tTo Town Hall Station, Park Street, Stand J\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.",
-                "name": "324 bus line"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    151.27469046422,
-                    -33.8591211778089
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "DarkTurquoise",
-                    "iconClass": "Circle",
-                    "iconUrl": "/uploads/pictogram/bus-24_1.png"
-                },
-                "description": "Sunday 20 December\n\t\t\t10:33am to 10:45am\n\n\t\t\tFrom New South Head Rd opp New Beach Road\n\t\t\tTo Town Hall Station, Park Street, Stand J\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.",
-                "name": "324 bus line"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    151.279800421484,
-                    -33.8576461594129
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "DarkTurquoise",
-                    "iconClass": "Circle",
-                    "iconUrl": "/uploads/pictogram/bus-24_1.png"
-                },
-                "description": "Sunday 20 December\n\t\t\t10:33am to 10:45am\n\n\t\t\tFrom New South Head Rd opp New Beach Road\n\t\t\tTo Town Hall Station, Park Street, Stand J\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.",
-                "name": "324 bus line"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    151.272024864419,
-                    -33.8606733117959
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "DarkTurquoise",
-                    "iconClass": "Circle",
-                    "iconUrl": "/uploads/pictogram/bus-24_1.png"
-                },
-                "description": "Sunday 20 December\n\t\t\t10:33am to 10:45am\n\n\t\t\tFrom New South Head Rd opp New Beach Road\n\t\t\tTo Town Hall Station, Park Street, Stand J\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.",
-                "name": "324 bus line"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    151.255257053492,
-                    -33.8711830134828
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "DarkTurquoise",
-                    "iconClass": "Circle",
-                    "iconUrl": "/uploads/pictogram/bus-24_1.png"
-                },
-                "description": "Sunday 20 December\n\t\t\t10:33am to 10:45am\n\n\t\t\tFrom New South Head Rd opp New Beach Road\n\t\t\tTo Town Hall Station, Park Street, Stand J\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.",
-                "name": "324 bus line"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    151.262558244182,
-                    -33.8726961216136
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "DarkTurquoise",
-                    "iconClass": "Circle",
-                    "iconUrl": "/uploads/pictogram/bus-24_1.png"
-                },
-                "description": "Sunday 20 December\n\t\t\t10:33am to 10:45am\n\n\t\t\tFrom New South Head Rd opp New Beach Road\n\t\t\tTo Town Hall Station, Park Street, Stand J\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.",
-                "name": "324 bus line"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    151.276993474644,
-                    -33.8593925131694
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "DarkTurquoise",
-                    "iconClass": "Circle",
-                    "iconUrl": "/uploads/pictogram/bus-24_1.png"
-                },
-                "description": "Sunday 20 December\n\t\t\t10:33am to 10:45am\n\n\t\t\tFrom New South Head Rd opp New Beach Road\n\t\t\tTo Town Hall Station, Park Street, Stand J\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.",
-                "name": "324 bus line"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    151.278557101917,
-                    -33.8586984700546
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "DarkTurquoise",
-                    "iconClass": "Circle",
-                    "iconUrl": "/uploads/pictogram/bus-24_1.png"
-                },
-                "description": "Sunday 20 December\n\t\t\t10:33am to 10:45am\n\n\t\t\tFrom New South Head Rd opp New Beach Road\n\t\t\tTo Town Hall Station, Park Street, Stand J\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.",
-                "name": "324 bus line"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    151.267377255422,
-                    -33.870997412544
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "DarkTurquoise",
-                    "iconClass": "Circle",
-                    "iconUrl": "/uploads/pictogram/bus-24_1.png"
-                },
-                "description": "Sunday 20 December\n\t\t\t10:33am to 10:45am\n\n\t\t\tFrom New South Head Rd opp New Beach Road\n\t\t\tTo Town Hall Station, Park Street, Stand J\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.",
-                "name": "324 bus line"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    151.259256628052,
-                    -33.8723329735136
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "DarkTurquoise",
-                    "iconClass": "Circle",
-                    "iconUrl": "/uploads/pictogram/bus-24_1.png"
-                },
-                "description": "Sunday 20 December\n\t\t\t10:33am to 10:45am\n\n\t\t\tFrom New South Head Rd opp New Beach Road\n\t\t\tTo Town Hall Station, Park Street, Stand J\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.",
-                "name": "324 bus line"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    151.281913785299,
-                    -33.8569329521455
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "DarkTurquoise",
-                    "iconClass": "Circle",
-                    "iconUrl": "/uploads/pictogram/bus-24_1.png"
-                },
-                "description": "Sunday 20 December\n\t\t\t10:33am to 10:45am\n\n\t\t\tFrom New South Head Rd opp New Beach Road\n\t\t\tTo Town Hall Station, Park Street, Stand J\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.",
-                "name": "324 bus line"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    151.256943890017,
-                    -33.87187245126
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "DarkTurquoise",
-                    "iconClass": "Circle",
-                    "iconUrl": "/uploads/pictogram/bus-24_1.png"
-                },
-                "description": "Sunday 20 December\n\t\t\t10:33am to 10:45am\n\n\t\t\tFrom New South Head Rd opp New Beach Road\n\t\t\tTo Town Hall Station, Park Street, Stand J\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.",
-                "name": "324 bus line"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    151.286226579682,
-                    -33.8505391953238
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "DarkTurquoise",
-                    "iconClass": "Circle",
-                    "iconUrl": "/uploads/pictogram/bus-24_1.png"
-                },
-                "description": "Sunday 20 December\n\t\t\t10:33am to 10:45am\n\n\t\t\tFrom New South Head Rd opp New Beach Road\n\t\t\tTo Town Hall Station, Park Street, Stand J\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.",
-                "name": "324 bus line"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    151.284864075639,
-                    -33.852875065578
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "DarkTurquoise",
-                    "iconClass": "Circle",
-                    "iconUrl": "/uploads/pictogram/bus-24_1.png"
-                },
-                "description": "Sunday 20 December\n\t\t\t10:33am to 10:45am\n\n\t\t\tFrom New South Head Rd opp New Beach Road\n\t\t\tTo Town Hall Station, Park Street, Stand J\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.",
-                "name": "324 bus line"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    151.283491463128,
-                    -33.8461567059455
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "DarkTurquoise",
-                    "iconClass": "Circle",
-                    "iconUrl": "/uploads/pictogram/bus-24_1.png"
-                },
-                "description": "Sunday 20 December\n\t\t\t10:33am to 10:45am\n\n\t\t\tFrom New South Head Rd opp New Beach Road\n\t\t\tTo Town Hall Station, Park Street, Stand J\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.",
-                "name": "324 bus line"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    151.283164248527,
-                    -33.856240742205
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "DarkTurquoise",
-                    "iconClass": "Circle",
-                    "iconUrl": "/uploads/pictogram/bus-24_1.png"
-                },
-                "description": "Sunday 20 December\n\t\t\t10:33am to 10:45am\n\n\t\t\tFrom New South Head Rd opp New Beach Road\n\t\t\tTo Town Hall Station, Park Street, Stand J\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.",
-                "name": "324 bus line"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    151.286061881335,
-                    -33.8472474510783
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "DarkTurquoise",
-                    "iconClass": "Circle",
-                    "iconUrl": "/uploads/pictogram/bus-24_1.png"
-                },
-                "description": "Sunday 20 December\n\t\t\t10:33am to 10:45am\n\n\t\t\tFrom New South Head Rd opp New Beach Road\n\t\t\tTo Town Hall Station, Park Street, Stand J\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.",
-                "name": "324 bus line"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    151.286642298152,
-                    -33.8487047929334
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "DarkTurquoise",
-                    "iconClass": "Circle",
-                    "iconUrl": "/uploads/pictogram/bus-24_1.png"
-                },
-                "description": "Sunday 20 December\n\t\t\t10:33am to 10:45am\n\n\t\t\tFrom New South Head Rd opp New Beach Road\n\t\t\tTo Town Hall Station, Park Street, Stand J\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.",
-                "name": "324 bus line"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    151.206506690823,
-                    -33.8724001679943
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "DarkTurquoise",
-                    "iconClass": "Circle",
-                    "iconUrl": "/uploads/pictogram/bus-24_1.png"
-                },
-                "description": "Sunday 20 December\n\t\t\t10:33am to 10:45am\n\n\t\t\tFrom New South Head Rd opp New Beach Road\n\t\t\tTo Town Hall Station, Park Street, Stand J\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.",
-                "name": "324 bus line"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    151.283977257032,
-                    -33.843779299789
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "DarkTurquoise",
-                    "iconClass": "Circle",
-                    "iconUrl": "/uploads/pictogram/bus-24_1.png"
-                },
-                "description": "Sunday 20 December\n\t\t\t10:33am to 10:45am\n\n\t\t\tFrom New South Head Rd opp New Beach Road\n\t\t\tTo Town Hall Station, Park Street, Stand J\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.",
-                "name": "324 bus line"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    151.265405371099,
-                    -33.8717415205114
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "DarkTurquoise",
-                    "iconClass": "Circle",
-                    "iconUrl": "/uploads/pictogram/bus-24_1.png"
-                },
-                "description": "Sunday 20 December\n\t\t\t10:33am to 10:45am\n\n\t\t\tFrom New South Head Rd opp New Beach Road\n\t\t\tTo Town Hall Station, Park Street, Stand J\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.",
-                "name": "324 bus line"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    151.208820434059,
-                    -33.8731048859679
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "DarkTurquoise",
-                    "iconClass": "Circle",
-                    "iconUrl": "/uploads/pictogram/bus-24_1.png"
-                },
-                "description": "Sunday 20 December\n\t\t\t10:33am to 10:45am\n\n\t\t\tFrom New South Head Rd opp New Beach Road\n\t\t\tTo Town Hall Station, Park Street, Stand J\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.",
-                "name": "324 bus line"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    151.216963854642,
-                    -33.8744027185846
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "DarkTurquoise",
-                    "iconClass": "Circle",
-                    "iconUrl": "/uploads/pictogram/bus-24_1.png"
-                },
-                "description": "Sunday 20 December\n\t\t\t10:33am to 10:45am\n\n\t\t\tFrom New South Head Rd opp New Beach Road\n\t\t\tTo Town Hall Station, Park Street, Stand J\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.",
-                "name": "324 bus line"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    151.219893843821,
-                    -33.8748968887494
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "DarkTurquoise",
-                    "iconClass": "Circle",
-                    "iconUrl": "/uploads/pictogram/bus-24_1.png"
-                },
-                "description": "Sunday 20 December\n\t\t\t10:33am to 10:45am\n\n\t\t\tFrom New South Head Rd opp New Beach Road\n\t\t\tTo Town Hall Station, Park Street, Stand J\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.",
-                "name": "324 bus line"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    151.213137702238,
-                    -33.8736959075372
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "DarkTurquoise",
-                    "iconClass": "Circle",
-                    "iconUrl": "/uploads/pictogram/bus-24_1.png"
-                },
-                "description": "Sunday 20 December\n\t\t\t10:33am to 10:45am\n\n\t\t\tFrom New South Head Rd opp New Beach Road\n\t\t\tTo Town Hall Station, Park Street, Stand J\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.",
-                "name": "324 bus line"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    151.205949752679,
-                    -33.8672205255061
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "DarkTurquoise",
-                    "iconClass": "Circle",
-                    "iconUrl": "/uploads/pictogram/bus-24_1.png"
-                },
-                "description": "Sunday 20 December\n\t\t\t10:33am to 10:45am\n\n\t\t\tFrom New South Head Rd opp New Beach Road\n\t\t\tTo Town Hall Station, Park Street, Stand J\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.",
-                "name": "324 bus line"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    151.228489541662,
-                    -33.8761604040103
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "DarkTurquoise",
-                    "iconClass": "Circle",
-                    "iconUrl": "/uploads/pictogram/bus-24_1.png"
-                },
-                "description": "Sunday 20 December\n\t\t\t4:31pm to 4:41pm\n\n\t\t\tFrom Town Hall Station, Park Street, Stand G\n\t\t\tTo Bayswater Rd before New Beach Road\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.",
-                "name": "325 bus line"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    151.231199068014,
-                    -33.876562769173
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "DarkTurquoise",
-                    "iconClass": "Circle",
-                    "iconUrl": "/uploads/pictogram/bus-24_1.png"
-                },
-                "description": "Sunday 20 December\n\t\t\t4:31pm to 4:41pm\n\n\t\t\tFrom Town Hall Station, Park Street, Stand G\n\t\t\tTo Bayswater Rd before New Beach Road\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.",
-                "name": "325 bus line"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    151.236022870176,
-                    -33.8793068856802
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "DarkTurquoise",
-                    "iconClass": "Circle",
-                    "iconUrl": "/uploads/pictogram/bus-24_1.png"
-                },
-                "description": "Sunday 20 December\n\t\t\t4:31pm to 4:41pm\n\n\t\t\tFrom Town Hall Station, Park Street, Stand G\n\t\t\tTo Bayswater Rd before New Beach Road\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.",
-                "name": "325 bus line"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    151.235990519012,
-                    -33.8793079997919
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "DarkTurquoise",
-                    "iconClass": "Circle",
-                    "iconUrl": "/uploads/pictogram/bus-24_1.png"
-                },
-                "description": "Sunday 20 December\n\t\t\t4:31pm to 4:41pm\n\n\t\t\tFrom Town Hall Station, Park Street, Stand G\n\t\t\tTo Bayswater Rd before New Beach Road\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.",
-                "name": "325 bus line"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    151.278495047574,
-                    -33.8546463348644
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "DarkTurquoise",
-                    "iconClass": "Circle",
-                    "iconUrl": "/uploads/pictogram/bus-24_1.png"
-                },
-                "description": "Sunday 20 December\n\t\t\t4:31pm to 4:41pm\n\n\t\t\tFrom Town Hall Station, Park Street, Stand G\n\t\t\tTo Bayswater Rd before New Beach Road\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.",
-                "name": "325 bus line"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    151.276359291559,
-                    -33.8516663439839
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "DarkTurquoise",
-                    "iconClass": "Circle",
-                    "iconUrl": "/uploads/pictogram/bus-24_1.png"
-                },
-                "description": "Sunday 20 December\n\t\t\t4:31pm to 4:41pm\n\n\t\t\tFrom Town Hall Station, Park Street, Stand G\n\t\t\tTo Bayswater Rd before New Beach Road\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.",
-                "name": "325 bus line"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    151.276692093003,
-                    -33.853790041003
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "DarkTurquoise",
-                    "iconClass": "Circle",
-                    "iconUrl": "/uploads/pictogram/bus-24_1.png"
-                },
-                "description": "Sunday 20 December\n\t\t\t4:31pm to 4:41pm\n\n\t\t\tFrom Town Hall Station, Park Street, Stand G\n\t\t\tTo Bayswater Rd before New Beach Road\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.",
-                "name": "325 bus line"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    151.203117940833,
-                    -33.8636592973591
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "DarkTurquoise",
-                    "iconClass": "Circle",
-                    "iconUrl": "/uploads/pictogram/bus-24_1.png"
-                },
-                "description": "Sunday 20 December\n\t\t\t4:31pm to 4:41pm\n\n\t\t\tFrom Town Hall Station, Park Street, Stand G\n\t\t\tTo Bayswater Rd before New Beach Road\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.",
-                "name": "325 bus line"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    151.20330220753,
-                    -33.8572920333973
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "DarkTurquoise",
-                    "iconClass": "Circle",
-                    "iconUrl": "/uploads/pictogram/bus-24_1.png"
-                },
-                "description": "Sunday 20 December\n\t\t\t4:31pm to 4:41pm\n\n\t\t\tFrom Town Hall Station, Park Street, Stand G\n\t\t\tTo Bayswater Rd before New Beach Road\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.",
-                "name": "325 bus line"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    151.206639846382,
-                    -33.8562049077193
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "DarkTurquoise",
-                    "iconClass": "Circle",
-                    "iconUrl": "/uploads/pictogram/bus-24_1.png"
-                },
-                "description": "Sunday 20 December\n\t\t\t4:31pm to 4:41pm\n\n\t\t\tFrom Town Hall Station, Park Street, Stand G\n\t\t\tTo Bayswater Rd before New Beach Road\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.",
-                "name": "325 bus line"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    151.28032044961,
-                    -33.8542224659414
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "DarkTurquoise",
-                    "iconClass": "Circle",
-                    "iconUrl": "/uploads/pictogram/bus-24_1.png"
-                },
-                "description": "Sunday 20 December\n\t\t\t4:31pm to 4:41pm\n\n\t\t\tFrom Town Hall Station, Park Street, Stand G\n\t\t\tTo Bayswater Rd before New Beach Road\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.",
-                "name": "325 bus line"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    151.282285125604,
-                    -33.8462167107091
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "DarkTurquoise",
-                    "iconClass": "Circle",
-                    "iconUrl": "/uploads/pictogram/bus-24_1.png"
-                },
-                "description": "Sunday 20 December\n\t\t\t4:31pm to 4:41pm\n\n\t\t\tFrom Town Hall Station, Park Street, Stand G\n\t\t\tTo Bayswater Rd before New Beach Road\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.",
-                "name": "325 bus line"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    151.278933367699,
-                    -33.850450665524
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "DarkTurquoise",
-                    "iconClass": "Circle",
-                    "iconUrl": "/uploads/pictogram/bus-24_1.png"
-                },
-                "description": "Sunday 20 December\n\t\t\t4:31pm to 4:41pm\n\n\t\t\tFrom Town Hall Station, Park Street, Stand G\n\t\t\tTo Bayswater Rd before New Beach Road\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.",
-                "name": "325 bus line"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    151.280207650775,
-                    -33.8523974542951
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "DarkTurquoise",
-                    "iconClass": "Circle",
-                    "iconUrl": "/uploads/pictogram/bus-24_1.png"
-                },
-                "description": "Sunday 20 December\n\t\t\t4:31pm to 4:41pm\n\n\t\t\tFrom Town Hall Station, Park Street, Stand G\n\t\t\tTo Bayswater Rd before New Beach Road\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.",
-                "name": "325 bus line"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    151.280073241795,
-                    -33.848194675766
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "DarkTurquoise",
-                    "iconClass": "Circle",
-                    "iconUrl": "/uploads/pictogram/bus-24_1.png"
-                },
-                "description": "Sunday 20 December\n\t\t\t4:31pm to 4:41pm\n\n\t\t\tFrom Town Hall Station, Park Street, Stand G\n\t\t\tTo Bayswater Rd before New Beach Road\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.",
-                "name": "325 bus line"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    151.272715981657,
-                    -33.8654333897155
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "DarkTurquoise",
-                    "iconClass": "Circle",
-                    "iconUrl": "/uploads/pictogram/bus-24_1.png"
-                },
-                "description": "Sunday 20 December\n\t\t\t4:31pm to 4:41pm\n\n\t\t\tFrom Town Hall Station, Park Street, Stand G\n\t\t\tTo Bayswater Rd before New Beach Road\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.",
-                "name": "325 bus line"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    151.225765893133,
-                    -33.876127863109
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "DarkTurquoise",
-                    "iconClass": "Circle",
-                    "iconUrl": "/uploads/pictogram/bus-24_1.png"
-                },
-                "description": "Sunday 20 December\n\t\t\t4:31pm to 4:41pm\n\n\t\t\tFrom Town Hall Station, Park Street, Stand G\n\t\t\tTo Bayswater Rd before New Beach Road\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.",
-                "name": "325 bus line"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    151.223709246513,
-                    -33.8749461396184
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "DarkTurquoise",
-                    "iconClass": "Circle",
-                    "iconUrl": "/uploads/pictogram/bus-24_1.png"
-                },
-                "description": "Sunday 20 December\n\t\t\t4:31pm to 4:41pm\n\n\t\t\tFrom Town Hall Station, Park Street, Stand G\n\t\t\tTo Bayswater Rd before New Beach Road\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.",
-                "name": "325 bus line"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    151.272186863477,
-                    -33.8639201395192
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "DarkTurquoise",
-                    "iconClass": "Circle",
-                    "iconUrl": "/uploads/pictogram/bus-24_1.png"
-                },
-                "description": "Sunday 20 December\n\t\t\t4:31pm to 4:41pm\n\n\t\t\tFrom Town Hall Station, Park Street, Stand G\n\t\t\tTo Bayswater Rd before New Beach Road\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.",
-                "name": "325 bus line"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    151.234212466993,
-                    -33.877648362327
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "DarkTurquoise",
-                    "iconClass": "Circle",
-                    "iconUrl": "/uploads/pictogram/bus-24_1.png"
-                },
-                "description": "Sunday 20 December\n\t\t\t4:31pm to 4:41pm\n\n\t\t\tFrom Town Hall Station, Park Street, Stand G\n\t\t\tTo Bayswater Rd before New Beach Road\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.",
-                "name": "325 bus line"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    151.269994291714,
-                    -33.869329925079
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "DarkTurquoise",
-                    "iconClass": "Circle",
-                    "iconUrl": "/uploads/pictogram/bus-24_1.png"
-                },
-                "description": "Sunday 20 December\n\t\t\t4:31pm to 4:41pm\n\n\t\t\tFrom Town Hall Station, Park Street, Stand G\n\t\t\tTo Bayswater Rd before New Beach Road\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.",
-                "name": "325 bus line"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    151.271134583383,
-                    -33.8675064457092
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "DarkTurquoise",
-                    "iconClass": "Circle",
-                    "iconUrl": "/uploads/pictogram/bus-24_1.png"
-                },
-                "description": "Sunday 20 December\n\t\t\t4:31pm to 4:41pm\n\n\t\t\tFrom Town Hall Station, Park Street, Stand G\n\t\t\tTo Bayswater Rd before New Beach Road\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.",
-                "name": "325 bus line"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    151.239876029662,
-                    -33.8785884990118
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "DarkTurquoise",
-                    "iconClass": "Circle",
-                    "iconUrl": "/uploads/pictogram/bus-24_1.png"
-                },
-                "description": "Sunday 20 December\n\t\t\t4:31pm to 4:41pm\n\n\t\t\tFrom Town Hall Station, Park Street, Stand G\n\t\t\tTo Bayswater Rd before New Beach Road\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.",
-                "name": "325 bus line"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    151.243086279532,
-                    -33.8775407948927
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "DarkTurquoise",
-                    "iconClass": "Circle",
-                    "iconUrl": "/uploads/pictogram/bus-24_1.png"
-                },
-                "description": "Sunday 20 December\n\t\t\t4:31pm to 4:41pm\n\n\t\t\tFrom Town Hall Station, Park Street, Stand G\n\t\t\tTo Bayswater Rd before New Beach Road\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.",
-                "name": "325 bus line"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    151.246358380321,
-                    -33.8753466464006
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "DarkTurquoise",
-                    "iconClass": "Circle",
-                    "iconUrl": "/uploads/pictogram/bus-24_1.png"
-                },
-                "description": "Sunday 20 December\n\t\t\t4:31pm to 4:41pm\n\n\t\t\tFrom Town Hall Station, Park Street, Stand G\n\t\t\tTo Bayswater Rd before New Beach Road\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.",
-                "name": "325 bus line"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    151.252003788916,
-                    -33.8700521730465
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "DarkTurquoise",
-                    "iconClass": "Circle",
-                    "iconUrl": "/uploads/pictogram/bus-24_1.png"
-                },
-                "description": "Sunday 20 December\n\t\t\t4:31pm to 4:41pm\n\n\t\t\tFrom Town Hall Station, Park Street, Stand G\n\t\t\tTo Bayswater Rd before New Beach Road\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.",
-                "name": "325 bus line"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    151.247100301938,
-                    -33.8735371182341
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "DarkTurquoise",
-                    "iconClass": "Circle",
-                    "iconUrl": "/uploads/pictogram/bus-24_1.png"
-                },
-                "description": "Sunday 20 December\n\t\t\t4:31pm to 4:41pm\n\n\t\t\tFrom Town Hall Station, Park Street, Stand G\n\t\t\tTo Bayswater Rd before New Beach Road\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.",
-                "name": "325 bus line"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    151.2509656307,
-                    -33.8713313838479
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "DarkTurquoise",
-                    "iconClass": "Circle",
-                    "iconUrl": "/uploads/pictogram/bus-24_1.png"
-                },
-                "description": "Sunday 20 December\n\t\t\t4:31pm to 4:41pm\n\n\t\t\tFrom Town Hall Station, Park Street, Stand G\n\t\t\tTo Bayswater Rd before New Beach Road\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.",
-                "name": "325 bus line"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    151.255257053492,
-                    -33.8711830134828
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "DarkTurquoise",
-                    "iconClass": "Circle",
-                    "iconUrl": "/uploads/pictogram/bus-24_1.png"
-                },
-                "description": "Sunday 20 December\n\t\t\t4:31pm to 4:41pm\n\n\t\t\tFrom Town Hall Station, Park Street, Stand G\n\t\t\tTo Bayswater Rd before New Beach Road\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.",
-                "name": "325 bus line"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    151.262558244182,
-                    -33.8726961216136
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "DarkTurquoise",
-                    "iconClass": "Circle",
-                    "iconUrl": "/uploads/pictogram/bus-24_1.png"
-                },
-                "description": "Sunday 20 December\n\t\t\t4:31pm to 4:41pm\n\n\t\t\tFrom Town Hall Station, Park Street, Stand G\n\t\t\tTo Bayswater Rd before New Beach Road\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.",
-                "name": "325 bus line"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    151.267377255422,
-                    -33.870997412544
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "DarkTurquoise",
-                    "iconClass": "Circle",
-                    "iconUrl": "/uploads/pictogram/bus-24_1.png"
-                },
-                "description": "Sunday 20 December\n\t\t\t4:31pm to 4:41pm\n\n\t\t\tFrom Town Hall Station, Park Street, Stand G\n\t\t\tTo Bayswater Rd before New Beach Road\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.",
-                "name": "325 bus line"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    151.259256628052,
-                    -33.8723329735136
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "DarkTurquoise",
-                    "iconClass": "Circle",
-                    "iconUrl": "/uploads/pictogram/bus-24_1.png"
-                },
-                "description": "Sunday 20 December\n\t\t\t4:31pm to 4:41pm\n\n\t\t\tFrom Town Hall Station, Park Street, Stand G\n\t\t\tTo Bayswater Rd before New Beach Road\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.",
-                "name": "325 bus line"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    151.256943890017,
-                    -33.87187245126
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "DarkTurquoise",
-                    "iconClass": "Circle",
-                    "iconUrl": "/uploads/pictogram/bus-24_1.png"
-                },
-                "description": "Sunday 20 December\n\t\t\t4:31pm to 4:41pm\n\n\t\t\tFrom Town Hall Station, Park Street, Stand G\n\t\t\tTo Bayswater Rd before New Beach Road\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.",
-                "name": "325 bus line"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    151.269512219191,
-                    -33.8533816860763
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "DarkTurquoise",
-                    "iconClass": "Circle",
-                    "iconUrl": "/uploads/pictogram/bus-24_1.png"
-                },
-                "description": "Sunday 20 December\n\t\t\t4:31pm to 4:41pm\n\n\t\t\tFrom Town Hall Station, Park Street, Stand G\n\t\t\tTo Bayswater Rd before New Beach Road\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.",
-                "name": "325 bus line"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    151.206506690823,
-                    -33.8724001679943
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "DarkTurquoise",
-                    "iconClass": "Circle",
-                    "iconUrl": "/uploads/pictogram/bus-24_1.png"
-                },
-                "description": "Sunday 20 December\n\t\t\t4:31pm to 4:41pm\n\n\t\t\tFrom Town Hall Station, Park Street, Stand G\n\t\t\tTo Bayswater Rd before New Beach Road\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.",
-                "name": "325 bus line"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    151.283977257032,
-                    -33.843779299789
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "DarkTurquoise",
-                    "iconClass": "Circle",
-                    "iconUrl": "/uploads/pictogram/bus-24_1.png"
-                },
-                "description": "Sunday 20 December\n\t\t\t4:31pm to 4:41pm\n\n\t\t\tFrom Town Hall Station, Park Street, Stand G\n\t\t\tTo Bayswater Rd before New Beach Road\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.",
-                "name": "325 bus line"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    151.265405371099,
-                    -33.8717415205114
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "DarkTurquoise",
-                    "iconClass": "Circle",
-                    "iconUrl": "/uploads/pictogram/bus-24_1.png"
-                },
-                "description": "Sunday 20 December\n\t\t\t4:31pm to 4:41pm\n\n\t\t\tFrom Town Hall Station, Park Street, Stand G\n\t\t\tTo Bayswater Rd before New Beach Road\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.",
-                "name": "325 bus line"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    151.268609211528,
-                    -33.8551969139871
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "DarkTurquoise",
-                    "iconClass": "Circle",
-                    "iconUrl": "/uploads/pictogram/bus-24_1.png"
-                },
-                "description": "Sunday 20 December\n\t\t\t4:31pm to 4:41pm\n\n\t\t\tFrom Town Hall Station, Park Street, Stand G\n\t\t\tTo Bayswater Rd before New Beach Road\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.",
-                "name": "325 bus line"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    151.208820434059,
-                    -33.8731048859679
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "DarkTurquoise",
-                    "iconClass": "Circle",
-                    "iconUrl": "/uploads/pictogram/bus-24_1.png"
-                },
-                "description": "Sunday 20 December\n\t\t\t4:31pm to 4:41pm\n\n\t\t\tFrom Town Hall Station, Park Street, Stand G\n\t\t\tTo Bayswater Rd before New Beach Road\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.",
-                "name": "325 bus line"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    151.273573540109,
-                    -33.8538353275472
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "DarkTurquoise",
-                    "iconClass": "Circle",
-                    "iconUrl": "/uploads/pictogram/bus-24_1.png"
-                },
-                "description": "Sunday 20 December\n\t\t\t4:31pm to 4:41pm\n\n\t\t\tFrom Town Hall Station, Park Street, Stand G\n\t\t\tTo Bayswater Rd before New Beach Road\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.",
-                "name": "325 bus line"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    151.270006405786,
-                    -33.8574458767309
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "DarkTurquoise",
-                    "iconClass": "Circle",
-                    "iconUrl": "/uploads/pictogram/bus-24_1.png"
-                },
-                "description": "Sunday 20 December\n\t\t\t4:31pm to 4:41pm\n\n\t\t\tFrom Town Hall Station, Park Street, Stand G\n\t\t\tTo Bayswater Rd before New Beach Road\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.",
-                "name": "325 bus line"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    151.270419105008,
-                    -33.8587919992991
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "DarkTurquoise",
-                    "iconClass": "Circle",
-                    "iconUrl": "/uploads/pictogram/bus-24_1.png"
-                },
-                "description": "Sunday 20 December\n\t\t\t4:31pm to 4:41pm\n\n\t\t\tFrom Town Hall Station, Park Street, Stand G\n\t\t\tTo Bayswater Rd before New Beach Road\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.",
-                "name": "325 bus line"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    151.270116231488,
-                    -33.8602981008837
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "DarkTurquoise",
-                    "iconClass": "Circle",
-                    "iconUrl": "/uploads/pictogram/bus-24_1.png"
-                },
-                "description": "Sunday 20 December\n\t\t\t4:31pm to 4:41pm\n\n\t\t\tFrom Town Hall Station, Park Street, Stand G\n\t\t\tTo Bayswater Rd before New Beach Road\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.",
-                "name": "325 bus line"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    151.270454396604,
-                    -33.8614485986788
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "DarkTurquoise",
-                    "iconClass": "Circle",
-                    "iconUrl": "/uploads/pictogram/bus-24_1.png"
-                },
-                "description": "Sunday 20 December\n\t\t\t4:31pm to 4:41pm\n\n\t\t\tFrom Town Hall Station, Park Street, Stand G\n\t\t\tTo Bayswater Rd before New Beach Road\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.",
-                "name": "325 bus line"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    151.274179620361,
-                    -33.8499671923725
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "DarkTurquoise",
-                    "iconClass": "Circle",
-                    "iconUrl": "/uploads/pictogram/bus-24_1.png"
-                },
-                "description": "Sunday 20 December\n\t\t\t4:31pm to 4:41pm\n\n\t\t\tFrom Town Hall Station, Park Street, Stand G\n\t\t\tTo Bayswater Rd before New Beach Road\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.",
-                "name": "325 bus line"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    151.274151723666,
-                    -33.8511394046388
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "DarkTurquoise",
-                    "iconClass": "Circle",
-                    "iconUrl": "/uploads/pictogram/bus-24_1.png"
-                },
-                "description": "Sunday 20 December\n\t\t\t4:31pm to 4:41pm\n\n\t\t\tFrom Town Hall Station, Park Street, Stand G\n\t\t\tTo Bayswater Rd before New Beach Road\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.",
-                "name": "325 bus line"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    151.271501983851,
-                    -33.8538712212328
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "DarkTurquoise",
-                    "iconClass": "Circle",
-                    "iconUrl": "/uploads/pictogram/bus-24_1.png"
-                },
-                "description": "Sunday 20 December\n\t\t\t4:31pm to 4:41pm\n\n\t\t\tFrom Town Hall Station, Park Street, Stand G\n\t\t\tTo Bayswater Rd before New Beach Road\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.",
-                "name": "325 bus line"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    151.216963854642,
-                    -33.8744027185846
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "DarkTurquoise",
-                    "iconClass": "Circle",
-                    "iconUrl": "/uploads/pictogram/bus-24_1.png"
-                },
-                "description": "Sunday 20 December\n\t\t\t4:31pm to 4:41pm\n\n\t\t\tFrom Town Hall Station, Park Street, Stand G\n\t\t\tTo Bayswater Rd before New Beach Road\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.",
-                "name": "325 bus line"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    151.219893843821,
-                    -33.8748968887494
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "DarkTurquoise",
-                    "iconClass": "Circle",
-                    "iconUrl": "/uploads/pictogram/bus-24_1.png"
-                },
-                "description": "Sunday 20 December\n\t\t\t4:31pm to 4:41pm\n\n\t\t\tFrom Town Hall Station, Park Street, Stand G\n\t\t\tTo Bayswater Rd before New Beach Road\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.",
-                "name": "325 bus line"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    151.213137702238,
-                    -33.8736959075372
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "DarkTurquoise",
-                    "iconClass": "Circle",
-                    "iconUrl": "/uploads/pictogram/bus-24_1.png"
-                },
-                "description": "Sunday 20 December\n\t\t\t4:31pm to 4:41pm\n\n\t\t\tFrom Town Hall Station, Park Street, Stand G\n\t\t\tTo Bayswater Rd before New Beach Road\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.",
-                "name": "325 bus line"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    151.205949752679,
-                    -33.8672205255061
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "DarkTurquoise",
-                    "iconClass": "Circle",
-                    "iconUrl": "/uploads/pictogram/bus-24_1.png"
-                },
-                "description": "Sunday 20 December\n\t\t\t4:31pm to 4:41pm\n\n\t\t\tFrom Town Hall Station, Park Street, Stand G\n\t\t\tTo Bayswater Rd before New Beach Road\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.",
-                "name": "325 bus line"
+                "description": "Thursday 31 December 2020, 8:30am to 3pm\n\nWednesday 30 December 2020, 12:45pm to 9:15pm\n\nTuesday 29 December 2020, 1:41pm to 9:15pm\n\nMonday 28 December 2020, 9:30am to 7:15pm\n\nSunday 27 December 2020, 12:39pm to 8:15pm\n\nSaturday 26 December 2020, 9:55am to 7:15pm\n\nThursday 24 December 2020, 12:40pm to 9:17pm\n\nWednesday 23 December 2020, 1:40pm to 9:15pm\n\nTuesday 22 December 2020, 12:41pm to 9:15pm\n\nMonday 21 December 2020, All day\n\nSunday 20 December 2020, All day\n\nGet tested immediately and self-isolate until you get a negative result",
+                "name": "BWS Berala"
             },
             "type": "Feature"
         },
@@ -4593,576 +2495,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    151.197627200538,
-                    -33.884497410031
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "DarkTurquoise",
-                    "iconClass": "Circle",
-                    "iconUrl": "/uploads/pictogram/bus-24_1.png"
-                },
-                "description": "Sunday 20 December\n\t\t\t10:48am to 11:02am\n\n\t\t\tFrom Castlereagh St before Bathurst Street\n\t\t\tTo Glebe Public School, Glebe Point Road\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.",
-                "name": "431 bus line"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    151.209138673755,
-                    -33.8740850795552
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "DarkTurquoise",
-                    "iconClass": "Circle",
-                    "iconUrl": "/uploads/pictogram/bus-24_1.png"
-                },
-                "description": "Sunday 20 December\n\t\t\t10:48am to 11:02am\n\n\t\t\tFrom Castlereagh St before Bathurst Street\n\t\t\tTo Glebe Public School, Glebe Point Road\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.",
-                "name": "431 bus line"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    151.203376950025,
-                    -33.8836703614572
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "DarkTurquoise",
-                    "iconClass": "Circle",
-                    "iconUrl": "/uploads/pictogram/bus-24_1.png"
-                },
-                "description": "Sunday 20 December\n\t\t\t10:48am to 11:02am\n\n\t\t\tFrom Castlereagh St before Bathurst Street\n\t\t\tTo Glebe Public School, Glebe Point Road\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.",
-                "name": "431 bus line"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    151.209414960216,
-                    -33.871796137316
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "DarkTurquoise",
-                    "iconClass": "Circle",
-                    "iconUrl": "/uploads/pictogram/bus-24_1.png"
-                },
-                "description": "Sunday 20 December\n\t\t\t10:48am to 11:02am\n\n\t\t\tFrom Castlereagh St before Bathurst Street\n\t\t\tTo Glebe Public School, Glebe Point Road\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.",
-                "name": "431 bus line"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    151.180007753943,
-                    -33.8723393483662
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "DarkTurquoise",
-                    "iconClass": "Circle",
-                    "iconUrl": "/uploads/pictogram/bus-24_1.png"
-                },
-                "description": "Sunday 20 December\n\t\t\t10:48am to 11:02am\n\n\t\t\tFrom Castlereagh St before Bathurst Street\n\t\t\tTo Glebe Public School, Glebe Point Road\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.",
-                "name": "431 bus line"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    151.185191604054,
-                    -33.8776231270312
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "DarkTurquoise",
-                    "iconClass": "Circle",
-                    "iconUrl": "/uploads/pictogram/bus-24_1.png"
-                },
-                "description": "Sunday 20 December\n\t\t\t10:48am to 11:02am\n\n\t\t\tFrom Castlereagh St before Bathurst Street\n\t\t\tTo Glebe Public School, Glebe Point Road\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.",
-                "name": "431 bus line"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    151.192400643048,
-                    -33.8840990339942
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "DarkTurquoise",
-                    "iconClass": "Circle",
-                    "iconUrl": "/uploads/pictogram/bus-24_1.png"
-                },
-                "description": "Sunday 20 December\n\t\t\t10:48am to 11:02am\n\n\t\t\tFrom Castlereagh St before Bathurst Street\n\t\t\tTo Glebe Public School, Glebe Point Road\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.",
-                "name": "431 bus line"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    151.18589739766,
-                    -33.878581194974
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "DarkTurquoise",
-                    "iconClass": "Circle",
-                    "iconUrl": "/uploads/pictogram/bus-24_1.png"
-                },
-                "description": "Sunday 20 December\n\t\t\t10:48am to 11:02am\n\n\t\t\tFrom Castlereagh St before Bathurst Street\n\t\t\tTo Glebe Public School, Glebe Point Road\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.",
-                "name": "431 bus line"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    151.18981770001,
-                    -33.8823129831488
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "DarkTurquoise",
-                    "iconClass": "Circle",
-                    "iconUrl": "/uploads/pictogram/bus-24_1.png"
-                },
-                "description": "Sunday 20 December\n\t\t\t10:48am to 11:02am\n\n\t\t\tFrom Castlereagh St before Bathurst Street\n\t\t\tTo Glebe Public School, Glebe Point Road\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.",
-                "name": "431 bus line"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    151.188017516445,
-                    -33.8810678500751
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "DarkTurquoise",
-                    "iconClass": "Circle",
-                    "iconUrl": "/uploads/pictogram/bus-24_1.png"
-                },
-                "description": "Sunday 20 December\n\t\t\t10:48am to 11:02am\n\n\t\t\tFrom Castlereagh St before Bathurst Street\n\t\t\tTo Glebe Public School, Glebe Point Road\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.",
-                "name": "431 bus line"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    151.187242787531,
-                    -33.8802472919165
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "DarkTurquoise",
-                    "iconClass": "Circle",
-                    "iconUrl": "/uploads/pictogram/bus-24_1.png"
-                },
-                "description": "Sunday 20 December\n\t\t\t10:48am to 11:02am\n\n\t\t\tFrom Castlereagh St before Bathurst Street\n\t\t\tTo Glebe Public School, Glebe Point Road\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.",
-                "name": "431 bus line"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    151.183729224486,
-                    -33.8757717738252
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "DarkTurquoise",
-                    "iconClass": "Circle",
-                    "iconUrl": "/uploads/pictogram/bus-24_1.png"
-                },
-                "description": "Sunday 20 December\n\t\t\t10:48am to 11:02am\n\n\t\t\tFrom Castlereagh St before Bathurst Street\n\t\t\tTo Glebe Public School, Glebe Point Road\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.",
-                "name": "431 bus line"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    151.182097242805,
-                    -33.873763986915
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "DarkTurquoise",
-                    "iconClass": "Circle",
-                    "iconUrl": "/uploads/pictogram/bus-24_1.png"
-                },
-                "description": "Sunday 20 December\n\t\t\t10:48am to 11:02am\n\n\t\t\tFrom Castlereagh St before Bathurst Street\n\t\t\tTo Glebe Public School, Glebe Point Road\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.",
-                "name": "431 bus line"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    151.191348522916,
-                    -33.8833510286118
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "DarkTurquoise",
-                    "iconClass": "Circle",
-                    "iconUrl": "/uploads/pictogram/bus-24_1.png"
-                },
-                "description": "Sunday 20 December\n\t\t\t10:48am to 11:02am\n\n\t\t\tFrom Castlereagh St before Bathurst Street\n\t\t\tTo Glebe Public School, Glebe Point Road\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.",
-                "name": "431 bus line"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    151.209804767037,
-                    -33.8685212379281
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "DarkTurquoise",
-                    "iconClass": "Circle",
-                    "iconUrl": "/uploads/pictogram/bus-24_1.png"
-                },
-                "description": "Sunday 20 December\n\t\t\t10:48am to 11:02am\n\n\t\t\tFrom Castlereagh St before Bathurst Street\n\t\t\tTo Glebe Public School, Glebe Point Road\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.",
-                "name": "431 bus line"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    151.210696853217,
-                    -33.8675536856848
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "DarkTurquoise",
-                    "iconClass": "Circle",
-                    "iconUrl": "/uploads/pictogram/bus-24_1.png"
-                },
-                "description": "Sunday 20 December\n\t\t\t10:48am to 11:02am\n\n\t\t\tFrom Castlereagh St before Bathurst Street\n\t\t\tTo Glebe Public School, Glebe Point Road\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.",
-                "name": "431 bus line"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    151.208808676165,
-                    -33.8772588230191
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "DarkTurquoise",
-                    "iconClass": "Circle",
-                    "iconUrl": "/uploads/pictogram/bus-24_1.png"
-                },
-                "description": "Sunday 20 December\n\t\t\t10:48am to 11:02am\n\n\t\t\tFrom Castlereagh St before Bathurst Street\n\t\t\tTo Glebe Public School, Glebe Point Road\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.",
-                "name": "431 bus line"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    151.209737848551,
-                    -33.8755061498262
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "DarkTurquoise",
-                    "iconClass": "Circle",
-                    "iconUrl": "/uploads/pictogram/bus-24_1.png"
-                },
-                "description": "Sunday 20 December\n\t\t\t10:48am to 11:02am\n\n\t\t\tFrom Castlereagh St before Bathurst Street\n\t\t\tTo Glebe Public School, Glebe Point Road\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.",
-                "name": "431 bus line"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    151.206511877287,
-                    -33.8810764722094
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "DarkTurquoise",
-                    "iconClass": "Circle",
-                    "iconUrl": "/uploads/pictogram/bus-24_1.png"
-                },
-                "description": "Sunday 20 December\n\t\t\t10:48am to 11:02am\n\n\t\t\tFrom Castlereagh St before Bathurst Street\n\t\t\tTo Glebe Public School, Glebe Point Road\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.",
-                "name": "431 bus line"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    151.210163255919,
-                    -33.8720768645889
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "DarkTurquoise",
-                    "iconClass": "Circle",
-                    "iconUrl": "/uploads/pictogram/bus-24_1.png"
-                },
-                "description": "Sunday 20 December\n\t\t\t10:48am to 11:02am\n\n\t\t\tFrom Castlereagh St before Bathurst Street\n\t\t\tTo Glebe Public School, Glebe Point Road\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.",
-                "name": "431 bus line"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    151.30090310336,
-                    -33.7316785278668
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "DarkTurquoise",
-                    "iconClass": "Circle",
-                    "iconUrl": "/uploads/pictogram/bus-24_1.png"
-                },
-                "description": "Thursday 17 December\n\t\t\t4:15pm to 5:15pm\n\n\t\t\tFrom Wynyard Station, Carrington Street, Stand B\n\t\t\tTo\u00a0Mona Vale BLine, Barrenjoey Road\n\n\t\t\tIf you were on the bus at this time and date\n\n\t\t\t\n\t\t\t\tfor 30 minutes or more,\u00a0get tested immediately and self-isolate for 14 days regardless of the result\n\t\t\t\tfor less than 30 minutes,\u00a0get tested immediately and self-isolate until you receive a negative test result.\u00a0Monitor for symptoms and if symptoms occur, get tested again.\n\t\t\t\n\n\t\t\t[Added 11:30 pm 26 December]\n\nUpdated advice\n\n\t\t\tThursday 17 December\n\t\t\t11.30am to 12.36pm\n\n\t\t\tFrom\u00a0Mona Vale BLine, Barrenjoey Road\n\t\t\tTo\u00a0Wynyard Station, York Street, Stand M\n\n\t\t\tIf you were on the bus at this time and date\n\n\t\t\t\n\t\t\t\tfor 30 minutes or more,\u00a0get tested immediately and self-isolate for 14 days regardless of the result\n\t\t\t\tfor less than 30 minutes,\u00a0get tested immediately and self-isolate until you receive a negative test result.\u00a0Monitor for symptoms and if symptoms occur, get tested again.\n\t\t\t\n\n\t\t\t[Updated 11:30 pm 26 December]\n\nWednesday 16 December\n\t\t\t4:31pm to 5:25pm\n\n\t\t\tFrom Wynyard Station Stand B\n\t\t\tTo Warriewood BLine, Pittwater Road\n\n\t\t\tGet tested\u00a0and self-isolate for 14 days regardless of the result.",
-                "name": "B1 bus line"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    151.286506224887,
-                    -33.752640802937
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "DarkTurquoise",
-                    "iconClass": "Circle",
-                    "iconUrl": "/uploads/pictogram/bus-24_1.png"
-                },
-                "description": "Thursday 17 December\n\t\t\t4:15pm to 5:15pm\n\n\t\t\tFrom Wynyard Station, Carrington Street, Stand B\n\t\t\tTo\u00a0Mona Vale BLine, Barrenjoey Road\n\n\t\t\tIf you were on the bus at this time and date\n\n\t\t\t\n\t\t\t\tfor 30 minutes or more,\u00a0get tested immediately and self-isolate for 14 days regardless of the result\n\t\t\t\tfor less than 30 minutes,\u00a0get tested immediately and self-isolate until you receive a negative test result.\u00a0Monitor for symptoms and if symptoms occur, get tested again.\n\t\t\t\n\n\t\t\t[Added 11:30 pm 26 December]\n\nUpdated advice\n\n\t\t\tThursday 17 December\n\t\t\t11.30am to 12.36pm\n\n\t\t\tFrom\u00a0Mona Vale BLine, Barrenjoey Road\n\t\t\tTo\u00a0Wynyard Station, York Street, Stand M\n\n\t\t\tIf you were on the bus at this time and date\n\n\t\t\t\n\t\t\t\tfor 30 minutes or more,\u00a0get tested immediately and self-isolate for 14 days regardless of the result\n\t\t\t\tfor less than 30 minutes,\u00a0get tested immediately and self-isolate until you receive a negative test result.\u00a0Monitor for symptoms and if symptoms occur, get tested again.\n\t\t\t\n\n\t\t\t[Updated 11:30 pm 26 December]\n\nWednesday 16 December\n\t\t\t4:31pm to 5:25pm\n\n\t\t\tFrom Wynyard Station Stand B\n\t\t\tTo Warriewood BLine, Pittwater Road\n\n\t\t\tGet tested\u00a0and self-isolate for 14 days regardless of the result.",
-                "name": "B1 bus line"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    151.266629694702,
-                    -33.7861347830937
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "DarkTurquoise",
-                    "iconClass": "Circle",
-                    "iconUrl": "/uploads/pictogram/bus-24_1.png"
-                },
-                "description": "Thursday 17 December\n\t\t\t4:15pm to 5:15pm\n\n\t\t\tFrom Wynyard Station, Carrington Street, Stand B\n\t\t\tTo\u00a0Mona Vale BLine, Barrenjoey Road\n\n\t\t\tIf you were on the bus at this time and date\n\n\t\t\t\n\t\t\t\tfor 30 minutes or more,\u00a0get tested immediately and self-isolate for 14 days regardless of the result\n\t\t\t\tfor less than 30 minutes,\u00a0get tested immediately and self-isolate until you receive a negative test result.\u00a0Monitor for symptoms and if symptoms occur, get tested again.\n\t\t\t\n\n\t\t\t[Added 11:30 pm 26 December]\n\nUpdated advice\n\n\t\t\tThursday 17 December\n\t\t\t11.30am to 12.36pm\n\n\t\t\tFrom\u00a0Mona Vale BLine, Barrenjoey Road\n\t\t\tTo\u00a0Wynyard Station, York Street, Stand M\n\n\t\t\tIf you were on the bus at this time and date\n\n\t\t\t\n\t\t\t\tfor 30 minutes or more,\u00a0get tested immediately and self-isolate for 14 days regardless of the result\n\t\t\t\tfor less than 30 minutes,\u00a0get tested immediately and self-isolate until you receive a negative test result.\u00a0Monitor for symptoms and if symptoms occur, get tested again.\n\t\t\t\n\n\t\t\t[Updated 11:30 pm 26 December]\n\nWednesday 16 December\n\t\t\t4:31pm to 5:25pm\n\n\t\t\tFrom Wynyard Station Stand B\n\t\t\tTo Warriewood BLine, Pittwater Road\n\n\t\t\tGet tested\u00a0and self-isolate for 14 days regardless of the result.",
-                "name": "B1 bus line"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    151.305258683172,
-                    -33.6770999734241
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "DarkTurquoise",
-                    "iconClass": "Circle",
-                    "iconUrl": "/uploads/pictogram/bus-24_1.png"
-                },
-                "description": "Thursday 17 December\n\t\t\t4:15pm to 5:15pm\n\n\t\t\tFrom Wynyard Station, Carrington Street, Stand B\n\t\t\tTo\u00a0Mona Vale BLine, Barrenjoey Road\n\n\t\t\tIf you were on the bus at this time and date\n\n\t\t\t\n\t\t\t\tfor 30 minutes or more,\u00a0get tested immediately and self-isolate for 14 days regardless of the result\n\t\t\t\tfor less than 30 minutes,\u00a0get tested immediately and self-isolate until you receive a negative test result.\u00a0Monitor for symptoms and if symptoms occur, get tested again.\n\t\t\t\n\n\t\t\t[Added 11:30 pm 26 December]\n\nUpdated advice\n\n\t\t\tThursday 17 December\n\t\t\t11.30am to 12.36pm\n\n\t\t\tFrom\u00a0Mona Vale BLine, Barrenjoey Road\n\t\t\tTo\u00a0Wynyard Station, York Street, Stand M\n\n\t\t\tIf you were on the bus at this time and date\n\n\t\t\t\n\t\t\t\tfor 30 minutes or more,\u00a0get tested immediately and self-isolate for 14 days regardless of the result\n\t\t\t\tfor less than 30 minutes,\u00a0get tested immediately and self-isolate until you receive a negative test result.\u00a0Monitor for symptoms and if symptoms occur, get tested again.\n\t\t\t\n\n\t\t\t[Updated 11:30 pm 26 December]\n\nWednesday 16 December\n\t\t\t4:31pm to 5:25pm\n\n\t\t\tFrom Wynyard Station Stand B\n\t\t\tTo Warriewood BLine, Pittwater Road\n\n\t\t\tGet tested\u00a0and self-isolate for 14 days regardless of the result.",
-                "name": "B1 bus line"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    151.297163195928,
-                    -33.7135736579571
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "DarkTurquoise",
-                    "iconClass": "Circle",
-                    "iconUrl": "/uploads/pictogram/bus-24_1.png"
-                },
-                "description": "Thursday 17 December\n\t\t\t4:15pm to 5:15pm\n\n\t\t\tFrom Wynyard Station, Carrington Street, Stand B\n\t\t\tTo\u00a0Mona Vale BLine, Barrenjoey Road\n\n\t\t\tIf you were on the bus at this time and date\n\n\t\t\t\n\t\t\t\tfor 30 minutes or more,\u00a0get tested immediately and self-isolate for 14 days regardless of the result\n\t\t\t\tfor less than 30 minutes,\u00a0get tested immediately and self-isolate until you receive a negative test result.\u00a0Monitor for symptoms and if symptoms occur, get tested again.\n\t\t\t\n\n\t\t\t[Added 11:30 pm 26 December]\n\nUpdated advice\n\n\t\t\tThursday 17 December\n\t\t\t11.30am to 12.36pm\n\n\t\t\tFrom\u00a0Mona Vale BLine, Barrenjoey Road\n\t\t\tTo\u00a0Wynyard Station, York Street, Stand M\n\n\t\t\tIf you were on the bus at this time and date\n\n\t\t\t\n\t\t\t\tfor 30 minutes or more,\u00a0get tested immediately and self-isolate for 14 days regardless of the result\n\t\t\t\tfor less than 30 minutes,\u00a0get tested immediately and self-isolate until you receive a negative test result.\u00a0Monitor for symptoms and if symptoms occur, get tested again.\n\t\t\t\n\n\t\t\t[Updated 11:30 pm 26 December]\n\nWednesday 16 December\n\t\t\t4:31pm to 5:25pm\n\n\t\t\tFrom Wynyard Station Stand B\n\t\t\tTo Warriewood BLine, Pittwater Road\n\n\t\t\tGet tested\u00a0and self-isolate for 14 days regardless of the result.",
-                "name": "B1 bus line"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    151.221715058324,
-                    -33.8312089726503
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "DarkTurquoise",
-                    "iconClass": "Circle",
-                    "iconUrl": "/uploads/pictogram/bus-24_1.png"
-                },
-                "description": "Thursday 17 December\n\t\t\t4:15pm to 5:15pm\n\n\t\t\tFrom Wynyard Station, Carrington Street, Stand B\n\t\t\tTo\u00a0Mona Vale BLine, Barrenjoey Road\n\n\t\t\tIf you were on the bus at this time and date\n\n\t\t\t\n\t\t\t\tfor 30 minutes or more,\u00a0get tested immediately and self-isolate for 14 days regardless of the result\n\t\t\t\tfor less than 30 minutes,\u00a0get tested immediately and self-isolate until you receive a negative test result.\u00a0Monitor for symptoms and if symptoms occur, get tested again.\n\t\t\t\n\n\t\t\t[Added 11:30 pm 26 December]\n\nUpdated advice\n\n\t\t\tThursday 17 December\n\t\t\t11.30am to 12.36pm\n\n\t\t\tFrom\u00a0Mona Vale BLine, Barrenjoey Road\n\t\t\tTo\u00a0Wynyard Station, York Street, Stand M\n\n\t\t\tIf you were on the bus at this time and date\n\n\t\t\t\n\t\t\t\tfor 30 minutes or more,\u00a0get tested immediately and self-isolate for 14 days regardless of the result\n\t\t\t\tfor less than 30 minutes,\u00a0get tested immediately and self-isolate until you receive a negative test result.\u00a0Monitor for symptoms and if symptoms occur, get tested again.\n\t\t\t\n\n\t\t\t[Updated 11:30 pm 26 December]\n\nWednesday 16 December\n\t\t\t4:31pm to 5:25pm\n\n\t\t\tFrom Wynyard Station Stand B\n\t\t\tTo Warriewood BLine, Pittwater Road\n\n\t\t\tGet tested\u00a0and self-isolate for 14 days regardless of the result.",
-                "name": "B1 bus line"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    151.241471745834,
-                    -33.8240067286856
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "DarkTurquoise",
-                    "iconClass": "Circle",
-                    "iconUrl": "/uploads/pictogram/bus-24_1.png"
-                },
-                "description": "Thursday 17 December\n\t\t\t4:15pm to 5:15pm\n\n\t\t\tFrom Wynyard Station, Carrington Street, Stand B\n\t\t\tTo\u00a0Mona Vale BLine, Barrenjoey Road\n\n\t\t\tIf you were on the bus at this time and date\n\n\t\t\t\n\t\t\t\tfor 30 minutes or more,\u00a0get tested immediately and self-isolate for 14 days regardless of the result\n\t\t\t\tfor less than 30 minutes,\u00a0get tested immediately and self-isolate until you receive a negative test result.\u00a0Monitor for symptoms and if symptoms occur, get tested again.\n\t\t\t\n\n\t\t\t[Added 11:30 pm 26 December]\n\nUpdated advice\n\n\t\t\tThursday 17 December\n\t\t\t11.30am to 12.36pm\n\n\t\t\tFrom\u00a0Mona Vale BLine, Barrenjoey Road\n\t\t\tTo\u00a0Wynyard Station, York Street, Stand M\n\n\t\t\tIf you were on the bus at this time and date\n\n\t\t\t\n\t\t\t\tfor 30 minutes or more,\u00a0get tested immediately and self-isolate for 14 days regardless of the result\n\t\t\t\tfor less than 30 minutes,\u00a0get tested immediately and self-isolate until you receive a negative test result.\u00a0Monitor for symptoms and if symptoms occur, get tested again.\n\t\t\t\n\n\t\t\t[Updated 11:30 pm 26 December]\n\nWednesday 16 December\n\t\t\t4:31pm to 5:25pm\n\n\t\t\tFrom Wynyard Station Stand B\n\t\t\tTo Warriewood BLine, Pittwater Road\n\n\t\t\tGet tested\u00a0and self-isolate for 14 days regardless of the result.",
-                "name": "B1 bus line"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    151.300909312021,
-                    -33.697054685083
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "DarkTurquoise",
-                    "iconClass": "Circle",
-                    "iconUrl": "/uploads/pictogram/bus-24_1.png"
-                },
-                "description": "Thursday 17 December\n\t\t\t4:15pm to 5:15pm\n\n\t\t\tFrom Wynyard Station, Carrington Street, Stand B\n\t\t\tTo\u00a0Mona Vale BLine, Barrenjoey Road\n\n\t\t\tIf you were on the bus at this time and date\n\n\t\t\t\n\t\t\t\tfor 30 minutes or more,\u00a0get tested immediately and self-isolate for 14 days regardless of the result\n\t\t\t\tfor less than 30 minutes,\u00a0get tested immediately and self-isolate until you receive a negative test result.\u00a0Monitor for symptoms and if symptoms occur, get tested again.\n\t\t\t\n\n\t\t\t[Added 11:30 pm 26 December]\n\nUpdated advice\n\n\t\t\tThursday 17 December\n\t\t\t11.30am to 12.36pm\n\n\t\t\tFrom\u00a0Mona Vale BLine, Barrenjoey Road\n\t\t\tTo\u00a0Wynyard Station, York Street, Stand M\n\n\t\t\tIf you were on the bus at this time and date\n\n\t\t\t\n\t\t\t\tfor 30 minutes or more,\u00a0get tested immediately and self-isolate for 14 days regardless of the result\n\t\t\t\tfor less than 30 minutes,\u00a0get tested immediately and self-isolate until you receive a negative test result.\u00a0Monitor for symptoms and if symptoms occur, get tested again.\n\t\t\t\n\n\t\t\t[Updated 11:30 pm 26 December]\n\nWednesday 16 December\n\t\t\t4:31pm to 5:25pm\n\n\t\t\tFrom Wynyard Station Stand B\n\t\t\tTo Warriewood BLine, Pittwater Road\n\n\t\t\tGet tested\u00a0and self-isolate for 14 days regardless of the result.",
-                "name": "B1 bus line"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    151.268705252884,
-                    -33.7671065897448
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "DarkTurquoise",
-                    "iconClass": "Circle",
-                    "iconUrl": "/uploads/pictogram/bus-24_1.png"
-                },
-                "description": "Thursday 17 December\n\t\t\t4:15pm to 5:15pm\n\n\t\t\tFrom Wynyard Station, Carrington Street, Stand B\n\t\t\tTo\u00a0Mona Vale BLine, Barrenjoey Road\n\n\t\t\tIf you were on the bus at this time and date\n\n\t\t\t\n\t\t\t\tfor 30 minutes or more,\u00a0get tested immediately and self-isolate for 14 days regardless of the result\n\t\t\t\tfor less than 30 minutes,\u00a0get tested immediately and self-isolate until you receive a negative test result.\u00a0Monitor for symptoms and if symptoms occur, get tested again.\n\t\t\t\n\n\t\t\t[Added 11:30 pm 26 December]\n\nUpdated advice\n\n\t\t\tThursday 17 December\n\t\t\t11.30am to 12.36pm\n\n\t\t\tFrom\u00a0Mona Vale BLine, Barrenjoey Road\n\t\t\tTo\u00a0Wynyard Station, York Street, Stand M\n\n\t\t\tIf you were on the bus at this time and date\n\n\t\t\t\n\t\t\t\tfor 30 minutes or more,\u00a0get tested immediately and self-isolate for 14 days regardless of the result\n\t\t\t\tfor less than 30 minutes,\u00a0get tested immediately and self-isolate until you receive a negative test result.\u00a0Monitor for symptoms and if symptoms occur, get tested again.\n\t\t\t\n\n\t\t\t[Updated 11:30 pm 26 December]\n\nWednesday 16 December\n\t\t\t4:31pm to 5:25pm\n\n\t\t\tFrom Wynyard Station Stand B\n\t\t\tTo Warriewood BLine, Pittwater Road\n\n\t\t\tGet tested\u00a0and self-isolate for 14 days regardless of the result.",
-                "name": "B1 bus line"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    151.206303102113,
-                    -33.8658389472963
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "DarkTurquoise",
-                    "iconClass": "Circle",
-                    "iconUrl": "/uploads/pictogram/bus-24_1.png"
-                },
-                "description": "Thursday 17 December\n\t\t\t4:15pm to 5:15pm\n\n\t\t\tFrom Wynyard Station, Carrington Street, Stand B\n\t\t\tTo\u00a0Mona Vale BLine, Barrenjoey Road\n\n\t\t\tIf you were on the bus at this time and date\n\n\t\t\t\n\t\t\t\tfor 30 minutes or more,\u00a0get tested immediately and self-isolate for 14 days regardless of the result\n\t\t\t\tfor less than 30 minutes,\u00a0get tested immediately and self-isolate until you receive a negative test result.\u00a0Monitor for symptoms and if symptoms occur, get tested again.\n\t\t\t\n\n\t\t\t[Added 11:30 pm 26 December]\n\nUpdated advice\n\n\t\t\tThursday 17 December\n\t\t\t11.30am to 12.36pm\n\n\t\t\tFrom\u00a0Mona Vale BLine, Barrenjoey Road\n\t\t\tTo\u00a0Wynyard Station, York Street, Stand M\n\n\t\t\tIf you were on the bus at this time and date\n\n\t\t\t\n\t\t\t\tfor 30 minutes or more,\u00a0get tested immediately and self-isolate for 14 days regardless of the result\n\t\t\t\tfor less than 30 minutes,\u00a0get tested immediately and self-isolate until you receive a negative test result.\u00a0Monitor for symptoms and if symptoms occur, get tested again.\n\t\t\t\n\n\t\t\t[Updated 11:30 pm 26 December]\n\nWednesday 16 December\n\t\t\t4:31pm to 5:25pm\n\n\t\t\tFrom Wynyard Station Stand B\n\t\t\tTo Warriewood BLine, Pittwater Road\n\n\t\t\tGet tested\u00a0and self-isolate for 14 days regardless of the result.",
-                "name": "B1 bus line"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     150.798681374747,
                     -34.5628558162609
                 ],
@@ -5193,7 +2525,7 @@
                     "iconClass": "Circle",
                     "iconUrl": "/uploads/pictogram/rail-24-white.png"
                 },
-                "description": "Train\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
+                "description": "Train\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
                 "name": "Allawah train station"
             },
             "type": "Feature"
@@ -5212,7 +2544,7 @@
                     "iconClass": "Circle",
                     "iconUrl": "/uploads/pictogram/rail-24-white.png"
                 },
-                "description": "Train\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
+                "description": "Train\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
                 "name": "Arncliffe train station"
             },
             "type": "Feature"
@@ -5250,7 +2582,7 @@
                     "iconClass": "Circle",
                     "iconUrl": "/uploads/pictogram/rail-24-white.png"
                 },
-                "description": "Train\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
+                "description": "Train\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
                 "name": "Banksia train station"
             },
             "type": "Feature"
@@ -5326,7 +2658,7 @@
                     "iconClass": "Circle",
                     "iconUrl": "/uploads/pictogram/rail-24-white.png"
                 },
-                "description": "Train\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
+                "description": "Train\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
                 "name": "Bombo train station"
             },
             "type": "Feature"
@@ -5383,7 +2715,7 @@
                     "iconClass": "Circle",
                     "iconUrl": "/uploads/pictogram/rail-24-white.png"
                 },
-                "description": "Train\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
+                "description": "Train\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
                 "name": "Caringbah train station"
             },
             "type": "Feature"
@@ -5402,7 +2734,7 @@
                     "iconClass": "Circle",
                     "iconUrl": "/uploads/pictogram/rail-24-white.png"
                 },
-                "description": "Train\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
+                "description": "Train\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
                 "name": "Carlton train station"
             },
             "type": "Feature"
@@ -5421,7 +2753,7 @@
                     "iconClass": "Circle",
                     "iconUrl": "/uploads/pictogram/rail-24-white.png"
                 },
-                "description": "Train\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
+                "description": "Train\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
                 "name": "Central train station"
             },
             "type": "Feature"
@@ -5440,7 +2772,7 @@
                     "iconClass": "Circle",
                     "iconUrl": "/uploads/pictogram/rail-24-white.png"
                 },
-                "description": "Train\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
+                "description": "Train\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
                 "name": "Circular Quay train station"
             },
             "type": "Feature"
@@ -5478,7 +2810,7 @@
                     "iconClass": "Circle",
                     "iconUrl": "/uploads/pictogram/rail-24-white.png"
                 },
-                "description": "Train\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
+                "description": "Train\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
                 "name": "Coledale train station"
             },
             "type": "Feature"
@@ -5497,7 +2829,7 @@
                     "iconClass": "Circle",
                     "iconUrl": "/uploads/pictogram/rail-24-white.png"
                 },
-                "description": "Train\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
+                "description": "Train\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
                 "name": "Como train station"
             },
             "type": "Feature"
@@ -5516,7 +2848,7 @@
                     "iconClass": "Circle",
                     "iconUrl": "/uploads/pictogram/rail-24-white.png"
                 },
-                "description": "Train\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
+                "description": "Train\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
                 "name": "Coniston train station"
             },
             "type": "Feature"
@@ -5573,7 +2905,7 @@
                     "iconClass": "Circle",
                     "iconUrl": "/uploads/pictogram/rail-24-white.png"
                 },
-                "description": "Train\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
+                "description": "Train\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
                 "name": "Cronulla train station"
             },
             "type": "Feature"
@@ -5611,7 +2943,7 @@
                     "iconClass": "Circle",
                     "iconUrl": "/uploads/pictogram/rail-24-white.png"
                 },
-                "description": "Train\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
+                "description": "Train\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
                 "name": "Edgecliff train station"
             },
             "type": "Feature"
@@ -5858,7 +3190,7 @@
                     "iconClass": "Circle",
                     "iconUrl": "/uploads/pictogram/rail-24-white.png"
                 },
-                "description": "Train\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
+                "description": "Train\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
                 "name": "Kirrawee train station"
             },
             "type": "Feature"
@@ -5915,7 +3247,7 @@
                     "iconClass": "Circle",
                     "iconUrl": "/uploads/pictogram/rail-24-white.png"
                 },
-                "description": "Train\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
+                "description": "Train\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
                 "name": "Lysaghts train station"
             },
             "type": "Feature"
@@ -5934,7 +3266,7 @@
                     "iconClass": "Circle",
                     "iconUrl": "/uploads/pictogram/rail-24-white.png"
                 },
-                "description": "Train\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
+                "description": "Train\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
                 "name": "Martin Place train station"
             },
             "type": "Feature"
@@ -5953,7 +3285,7 @@
                     "iconClass": "Circle",
                     "iconUrl": "/uploads/pictogram/rail-24-white.png"
                 },
-                "description": "Train\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
+                "description": "Train\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
                 "name": "Minnamurra train station"
             },
             "type": "Feature"
@@ -6086,7 +3418,7 @@
                     "iconClass": "Circle",
                     "iconUrl": "/uploads/pictogram/rail-24-white.png"
                 },
-                "description": "Train\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
+                "description": "Train\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
                 "name": "Otford train station"
             },
             "type": "Feature"
@@ -6105,7 +3437,7 @@
                     "iconClass": "Circle",
                     "iconUrl": "/uploads/pictogram/rail-24-white.png"
                 },
-                "description": "Train\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
+                "description": "Train\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
                 "name": "Penshurst train station"
             },
             "type": "Feature"
@@ -6162,7 +3494,7 @@
                     "iconClass": "Circle",
                     "iconUrl": "/uploads/pictogram/rail-24-white.png"
                 },
-                "description": "Train\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
+                "description": "Train\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
                 "name": "Redfern train station"
             },
             "type": "Feature"
@@ -6181,7 +3513,7 @@
                     "iconClass": "Circle",
                     "iconUrl": "/uploads/pictogram/rail-24-white.png"
                 },
-                "description": "Train\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
+                "description": "Train\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
                 "name": "Rockdale train station"
             },
             "type": "Feature"
@@ -6200,7 +3532,7 @@
                     "iconClass": "Circle",
                     "iconUrl": "/uploads/pictogram/rail-24-white.png"
                 },
-                "description": "Train\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
+                "description": "Train\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
                 "name": "Scarborough train station"
             },
             "type": "Feature"
@@ -6219,7 +3551,7 @@
                     "iconClass": "Circle",
                     "iconUrl": "/uploads/pictogram/rail-24-white.png"
                 },
-                "description": "Train\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
+                "description": "Train\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
                 "name": "Shellharbour Junction train station"
             },
             "type": "Feature"
@@ -6257,7 +3589,7 @@
                     "iconClass": "Circle",
                     "iconUrl": "/uploads/pictogram/rail-24-white.png"
                 },
-                "description": "Train\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
+                "description": "Train\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
                 "name": "St Peters train station"
             },
             "type": "Feature"
@@ -6295,7 +3627,7 @@
                     "iconClass": "Circle",
                     "iconUrl": "/uploads/pictogram/rail-24-white.png"
                 },
-                "description": "Train\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
+                "description": "Train\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
                 "name": "Sutherland train station"
             },
             "type": "Feature"
@@ -6409,7 +3741,7 @@
                     "iconClass": "Circle",
                     "iconUrl": "/uploads/pictogram/rail-24-white.png"
                 },
-                "description": "Train\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
+                "description": "Train\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
                 "name": "Unanderra train station"
             },
             "type": "Feature"
@@ -6504,7 +3836,7 @@
                     "iconClass": "Circle",
                     "iconUrl": "/uploads/pictogram/rail-24-white.png"
                 },
-                "description": "Train\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
+                "description": "Train\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
                 "name": "Woolooware train station"
             },
             "type": "Feature"
@@ -6523,7 +3855,7 @@
                     "iconClass": "Circle",
                     "iconUrl": "/uploads/pictogram/rail-24-white.png"
                 },
-                "description": "Train\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
+                "description": "Train\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
                 "name": "Woonona train station"
             },
             "type": "Feature"
@@ -6542,7 +3874,7 @@
                     "iconClass": "Circle",
                     "iconUrl": "/uploads/pictogram/rail-24-white.png"
                 },
-                "description": "Train\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
+                "description": "Train\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
                 "name": "Wynyard train station"
             },
             "type": "Feature"
