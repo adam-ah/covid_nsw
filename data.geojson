@@ -131,7 +131,7 @@
                 "_umap_options": {
                     "color": "Red"
                 },
-                "description": "Saturday 2 January 2021, 10am to 10:40am ACDT\n\nGet tested immediately and self-isolate for 14 days",
+                "description": "Saturday 2 January 2021, 12pm to 2pm CST\n\nGet tested immediately and self-isolate for 14 days",
                 "name": "Gourmet Cribtin"
             },
             "type": "Feature"
@@ -150,74 +150,6 @@
                 },
                 "description": "Thursday 31 December 2020, 10:30am to 12pm\n\nGet tested immediately and self-isolate for 14 days",
                 "name": "OKS Beauty and Hair"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    "150.9818723",
-                    "-33.819909"
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "Red"
-                },
-                "description": "Friday 1 January 2021, 12:30pm to 12:46pm\n\nFriday 1 January 2021, 1:06pm to 1:30pm\n\nFriday 1 January 2021, 12:46pm  to 1:06pm\n\nGet tested immediately and self-isolate for 14 days",
-                "name": "Sydney Murugan Temple"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    "150.988344",
-                    "-33.8371686"
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "Red"
-                },
-                "description": "Monday 28 December 2020, 4pm to 4:55pm\n\nGet tested immediately and self-isolate until you get a negative result",
-                "name": "Merrylands RSL (Ariah Room)"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    "150.988344",
-                    "-33.8371686"
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "Red"
-                },
-                "description": "Monday 28 December 2020, 4:55pm to 5:15pm\n\nGet tested immediately and self-isolate until you get a negative result",
-                "name": "Merrylands RSL (Smoking Gaming Area)"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    "150.988344",
-                    "-33.8371686"
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "Red"
-                },
-                "description": "Monday 28 December 2020, 5:15pm to 6pm\n\nGet tested immediately and self-isolate until you get a negative result",
-                "name": "Merrylands RSL (Sports Lounge)"
             },
             "type": "Feature"
         },
@@ -252,23 +184,6 @@
                 },
                 "description": "Monday 28 December 2020, 7:30am to 11am\n\nGet tested immediately and self-isolate for 14 days",
                 "name": "Ollie Webb Cricket Ground; Social cricket"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    "151.005436",
-                    "-33.8134588"
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "Red"
-                },
-                "description": "Monday 28 December 2020, 10:20am  to 10:50am \n\nGet tested immediately and self-isolate for 14 days",
-                "name": "Saravanaa Bhavan"
             },
             "type": "Feature"
         },
@@ -547,6 +462,57 @@
         {
             "geometry": {
                 "coordinates": [
+                    "150.988344",
+                    "-33.8371686"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "_umap_options": {
+                    "color": "Red"
+                },
+                "description": "Monday 28 December 2020, 4pm to 4:55pm\n\nGet tested immediately and self-isolate until you get a negative result",
+                "name": "Merrylands RSL (Ariah Room)"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "150.988344",
+                    "-33.8371686"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "_umap_options": {
+                    "color": "Red"
+                },
+                "description": "Monday 28 December 2020, 4:55pm to 5:15pm\n\nGet tested immediately and self-isolate until you get a negative result",
+                "name": "Merrylands RSL (Smoking Gaming Area)"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "150.988344",
+                    "-33.8371686"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "_umap_options": {
+                    "color": "Red"
+                },
+                "description": "Monday 28 December 2020, 5:15pm to 6pm\n\nGet tested immediately and self-isolate until you get a negative result",
+                "name": "Merrylands RSL (Sports Lounge)"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     "147.180592569237",
                     "-31.5569715729465"
                 ],
@@ -558,6 +524,23 @@
                 },
                 "description": "Sunday 3 January 2021, 12am to 9am\n\nSaturday 2 January 2021, 6pm to 12am\n\nGet tested immediately and self-isolate until you get a negative result",
                 "name": "Nyngan Riverside Tourist Park"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "151.005436",
+                    "-33.8134588"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "_umap_options": {
+                    "color": "Red"
+                },
+                "description": "Monday 28 December 2020, 10:20am  to 10:50am \n\nGet tested immediately and self-isolate until you get a negative result",
+                "name": "Saravanaa Bhavan"
             },
             "type": "Feature"
         },
@@ -972,6 +955,40 @@
         {
             "geometry": {
                 "coordinates": [
+                    "150.6674679",
+                    "-35.0384838"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "_umap_options": {
+                    "color": "LightPink"
+                },
+                "description": "Sunday 27 December 2020, 4:45pm to 5:20pm\n\nMonitor for symptoms",
+                "name": "Taj Indian Restaurant"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "150.5341372",
+                    "-34.7364706"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "_umap_options": {
+                    "color": "LightPink"
+                },
+                "description": "Sunday 27 December 2020, 11:20am to 11:30am\n\nMonitor for symptoms",
+                "name": "Nostalgia Factor Shop"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     "151.13203764266",
                     "-33.9650325599133"
                 ],
@@ -1067,7 +1084,7 @@
                     "color": "LightPink"
                 },
                 "description": "Monday 28 December 2020, 4pm to 6pm\n\nMonitor for symptoms",
-                "name": "Merrylands RSL  (all other areas)"
+                "name": "Merrylands RSL (all other areas)"
             },
             "type": "Feature"
         },
@@ -1357,6 +1374,23 @@
                 },
                 "description": "Wednesday 23 December 2020, 3:30pm to 4pm\n\nMonitor for symptoms",
                 "name": "Wollongong Central"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "150.9818723",
+                    "-33.819909"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "_umap_options": {
+                    "color": "Red"
+                },
+                "description": "Friday 1 January 2021, 1:06pm to 1:30pm\n\nFriday 1 January 2021, 12:46pm to 1:06pm\n\nFriday 1 January 2021, 12:30pm to 12:46pm\n\nGet tested immediately and self-isolate for 14 days",
+                "name": "Sydney Murugan Temple"
             },
             "type": "Feature"
         },
@@ -2837,7 +2871,7 @@
                     "iconClass": "Circle",
                     "iconUrl": "/uploads/pictogram/rail-24-white.png"
                 },
-                "description": "Train\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
+                "description": "Train\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
                 "name": "Banksia train station"
             },
             "type": "Feature"
@@ -2856,7 +2890,7 @@
                     "iconClass": "Circle",
                     "iconUrl": "/uploads/pictogram/rail-24-white.png"
                 },
-                "description": "Train\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
+                "description": "Train\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
                 "name": "Bellambi train station"
             },
             "type": "Feature"
@@ -2932,7 +2966,7 @@
                     "iconClass": "Circle",
                     "iconUrl": "/uploads/pictogram/rail-24-white.png"
                 },
-                "description": "Train\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
+                "description": "Train\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
                 "name": "Bondi Junction train station"
             },
             "type": "Feature"
@@ -2970,7 +3004,7 @@
                     "iconClass": "Circle",
                     "iconUrl": "/uploads/pictogram/rail-24-white.png"
                 },
-                "description": "Train\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
+                "description": "Train\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
                 "name": "Caringbah train station"
             },
             "type": "Feature"
@@ -3008,7 +3042,7 @@
                     "iconClass": "Circle",
                     "iconUrl": "/uploads/pictogram/rail-24-white.png"
                 },
-                "description": "Train\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
+                "description": "Train\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
                 "name": "Central train station"
             },
             "type": "Feature"
@@ -3198,7 +3232,7 @@
                     "iconClass": "Circle",
                     "iconUrl": "/uploads/pictogram/rail-24-white.png"
                 },
-                "description": "Train\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
+                "description": "Train\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
                 "name": "Edgecliff train station"
             },
             "type": "Feature"
@@ -3369,7 +3403,7 @@
                     "iconClass": "Circle",
                     "iconUrl": "/uploads/pictogram/rail-24-white.png"
                 },
-                "description": "Train\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
+                "description": "Train\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
                 "name": "Jannali train station"
             },
             "type": "Feature"
@@ -3388,7 +3422,7 @@
                     "iconClass": "Circle",
                     "iconUrl": "/uploads/pictogram/rail-24-white.png"
                 },
-                "description": "Train\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
+                "description": "Train\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
                 "name": "Kembla Grange train station"
             },
             "type": "Feature"
@@ -3407,7 +3441,7 @@
                     "iconClass": "Circle",
                     "iconUrl": "/uploads/pictogram/rail-24-white.png"
                 },
-                "description": "Train\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
+                "description": "Train\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
                 "name": "Kiama train station"
             },
             "type": "Feature"
@@ -3426,7 +3460,7 @@
                     "iconClass": "Circle",
                     "iconUrl": "/uploads/pictogram/rail-24-white.png"
                 },
-                "description": "Train\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
+                "description": "Train\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
                 "name": "Kings Cross train station"
             },
             "type": "Feature"
@@ -3464,7 +3498,7 @@
                     "iconClass": "Circle",
                     "iconUrl": "/uploads/pictogram/rail-24-white.png"
                 },
-                "description": "Train\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
+                "description": "Train\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
                 "name": "Kogarah train station"
             },
             "type": "Feature"
@@ -3483,7 +3517,7 @@
                     "iconClass": "Circle",
                     "iconUrl": "/uploads/pictogram/rail-24-white.png"
                 },
-                "description": "Train\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
+                "description": "Train\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
                 "name": "Loftus train station"
             },
             "type": "Feature"
@@ -3502,7 +3536,7 @@
                     "iconClass": "Circle",
                     "iconUrl": "/uploads/pictogram/rail-24-white.png"
                 },
-                "description": "Train\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
+                "description": "Train\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
                 "name": "Lysaghts train station"
             },
             "type": "Feature"
@@ -3521,7 +3555,7 @@
                     "iconClass": "Circle",
                     "iconUrl": "/uploads/pictogram/rail-24-white.png"
                 },
-                "description": "Train\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
+                "description": "Train\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
                 "name": "Martin Place train station"
             },
             "type": "Feature"
@@ -3540,7 +3574,7 @@
                     "iconClass": "Circle",
                     "iconUrl": "/uploads/pictogram/rail-24-white.png"
                 },
-                "description": "Train\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
+                "description": "Train\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
                 "name": "Minnamurra train station"
             },
             "type": "Feature"
@@ -3559,7 +3593,7 @@
                     "iconClass": "Circle",
                     "iconUrl": "/uploads/pictogram/rail-24-white.png"
                 },
-                "description": "Train\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
+                "description": "Train\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
                 "name": "Miranda train station"
             },
             "type": "Feature"
@@ -3597,7 +3631,7 @@
                     "iconClass": "Circle",
                     "iconUrl": "/uploads/pictogram/rail-24-white.png"
                 },
-                "description": "Train\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
+                "description": "Train\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
                 "name": "Museum train station"
             },
             "type": "Feature"
@@ -3616,7 +3650,7 @@
                     "iconClass": "Circle",
                     "iconUrl": "/uploads/pictogram/rail-24-white.png"
                 },
-                "description": "Train\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
+                "description": "Train\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
                 "name": "North Wollongong train station"
             },
             "type": "Feature"
@@ -3635,7 +3669,7 @@
                     "iconClass": "Circle",
                     "iconUrl": "/uploads/pictogram/rail-24-white.png"
                 },
-                "description": "Train\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
+                "description": "Train\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
                 "name": "Oak Flats train station"
             },
             "type": "Feature"
@@ -3654,7 +3688,7 @@
                     "iconClass": "Circle",
                     "iconUrl": "/uploads/pictogram/rail-24-white.png"
                 },
-                "description": "Train\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
+                "description": "Train\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
                 "name": "Oatley train station"
             },
             "type": "Feature"
@@ -3692,7 +3726,7 @@
                     "iconClass": "Circle",
                     "iconUrl": "/uploads/pictogram/rail-24-white.png"
                 },
-                "description": "Train\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
+                "description": "Train\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
                 "name": "Penshurst train station"
             },
             "type": "Feature"
@@ -3711,7 +3745,7 @@
                     "iconClass": "Circle",
                     "iconUrl": "/uploads/pictogram/rail-24-white.png"
                 },
-                "description": "Train\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
+                "description": "Train\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
                 "name": "Port Kembla train station"
             },
             "type": "Feature"
@@ -3787,7 +3821,7 @@
                     "iconClass": "Circle",
                     "iconUrl": "/uploads/pictogram/rail-24-white.png"
                 },
-                "description": "Train\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
+                "description": "Train\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
                 "name": "Scarborough train station"
             },
             "type": "Feature"
@@ -3806,7 +3840,7 @@
                     "iconClass": "Circle",
                     "iconUrl": "/uploads/pictogram/rail-24-white.png"
                 },
-                "description": "Train\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
+                "description": "Train\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
                 "name": "Shellharbour Junction train station"
             },
             "type": "Feature"
@@ -3863,7 +3897,7 @@
                     "iconClass": "Circle",
                     "iconUrl": "/uploads/pictogram/rail-24-white.png"
                 },
-                "description": "Train\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
+                "description": "Train\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
                 "name": "Stanwell Park train station"
             },
             "type": "Feature"
@@ -3882,7 +3916,7 @@
                     "iconClass": "Circle",
                     "iconUrl": "/uploads/pictogram/rail-24-white.png"
                 },
-                "description": "Train\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
+                "description": "Train\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
                 "name": "Sutherland train station"
             },
             "type": "Feature"
@@ -3939,7 +3973,7 @@
                     "iconClass": "Circle",
                     "iconUrl": "/uploads/pictogram/rail-24-white.png"
                 },
-                "description": "Train\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
+                "description": "Train\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
                 "name": "Thirroul train station"
             },
             "type": "Feature"
@@ -3958,7 +3992,7 @@
                     "iconClass": "Circle",
                     "iconUrl": "/uploads/pictogram/rail-24-white.png"
                 },
-                "description": "Train\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
+                "description": "Train\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
                 "name": "Town Hall train station"
             },
             "type": "Feature"
@@ -3977,7 +4011,7 @@
                     "iconClass": "Circle",
                     "iconUrl": "/uploads/pictogram/rail-24-white.png"
                 },
-                "description": "Train\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
+                "description": "Train\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
                 "name": "Towradgi train station"
             },
             "type": "Feature"
@@ -4034,7 +4068,7 @@
                     "iconClass": "Circle",
                     "iconUrl": "/uploads/pictogram/rail-24-white.png"
                 },
-                "description": "Train\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
+                "description": "Train\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
                 "name": "Wolli Creek train station"
             },
             "type": "Feature"
@@ -4053,7 +4087,7 @@
                     "iconClass": "Circle",
                     "iconUrl": "/uploads/pictogram/rail-24-white.png"
                 },
-                "description": "Train\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
+                "description": "Train\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
                 "name": "Wollongong train station"
             },
             "type": "Feature"
@@ -4091,7 +4125,7 @@
                     "iconClass": "Circle",
                     "iconUrl": "/uploads/pictogram/rail-24-white.png"
                 },
-                "description": "Train\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
+                "description": "Train\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
                 "name": "Woolooware train station"
             },
             "type": "Feature"
@@ -4129,7 +4163,7 @@
                     "iconClass": "Circle",
                     "iconUrl": "/uploads/pictogram/rail-24-white.png"
                 },
-                "description": "Train\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
+                "description": "Train\u00a0Redfern via Town Hall to Bondi Junction\nSCO,T4\nMonday, 21 December\n\t\t\t7:33pm to 7.52pm\n\n\t\t\tFrom Redfern\n\t\t\tTo Bondi Junction via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]\n\nTrain\u00a0Bondi Junction\u00a0\u00a0 \u00a0via Town Hall to Redfern\nSCO,T4\nTuesday, 22 December\n\t\t\t10.00am to 10.22am\n\n\t\t\tFrom Bondi Junction\n\t\t\tTo\u00a0Redfern via Town Hall\n\n\t\t\tMonitor for symptoms and if symptoms occur, get tested and self-isolate.\n\n\t\t\t[Updated 5:45pm 1 January]",
                 "name": "Wynyard train station"
             },
             "type": "Feature"
