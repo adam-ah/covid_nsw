@@ -3,23 +3,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    "150.940848962743",
-                    "-34.3011854265773"
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "Red"
-                },
-                "description": "Tuesday 2 February 2021, 1pm to 3pm\n\nGet tested immediately and self-isolate until further advice from NSW Health",
-                "name": "Headlands Hotel Austinmer Beach"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     "150.926032908186",
                     "-34.3392738775485"
                 ],
@@ -29,42 +12,8 @@
                 "_umap_options": {
                     "color": "Red"
                 },
-                "description": "Saturday 6 February 2021, 1:30pm to 4pm\n\nGet tested immediately and self-isolate until further advice from NSW Health",
+                "description": "Saturday 6 February 2021, 1:30pm to 4pm\n\nGet tested immediately and self-isolate for 14 days",
                 "name": "Bulli Beach Caf\u00e9 "
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    "151.154621435629",
-                    "-33.9600537719637"
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "Red"
-                },
-                "description": "Tuesday 2 February 2021, 10:54am to 12pm\n\nGet tested immediately and self-isolate until you get a negative result",
-                "name": "Mootch and Me"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    "150.893466690891",
-                    "-34.4157838331364"
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "Red"
-                },
-                "description": "Thursday 4 February 2021, 1pm to 1:15pm\n\nGet tested immediately and self-isolate until you get a negative result",
-                "name": "Optus North Wollongong"
             },
             "type": "Feature"
         },
@@ -88,6 +37,23 @@
         {
             "geometry": {
                 "coordinates": [
+                    "150.893466690891",
+                    "-34.4157838331364"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "_umap_options": {
+                    "color": "Red"
+                },
+                "description": "Thursday 4 February 2021, 1pm to 1:15pm\n\nGet tested immediately and self-isolate until you get a negative result",
+                "name": "Optus North Wollongong"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     "150.913626766501",
                     "-34.3365424882347"
                 ],
@@ -97,25 +63,8 @@
                 "_umap_options": {
                     "color": "LightPink"
                 },
-                "description": "Wednesday 3 February 2021, 8pm to 8:15pm\n\nWednesday 3 February 2021, 9:50am to 10:50am\n\nMonitor for symptoms",
+                "description": "Saturday 6 February 2021, 8pm to 8:15pm\n\nWednesday 3 February 2021, 9am to 10am\n\nMonitor for symptoms",
                 "name": "Woolworths"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    "150.863599757456",
-                    "-34.4363867599784"
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "LightPink"
-                },
-                "description": "Thursday 4 February 2021, 2pm to 3:30pm\n\nMonitor for symptoms",
-                "name": "Figtree Grove Shopping Centre - Kmart, Australia Post, Blooms The Chemist, Subway "
             },
             "type": "Feature"
         },
@@ -133,6 +82,40 @@
                 },
                 "description": "Wednesday 3 February 2021, 12pm to 1pm\n\nMonitor for symptoms",
                 "name": "Corrimal Memorial Park"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "150.894585650996",
+                    "-34.3926362255211"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "_umap_options": {
+                    "color": "LightPink"
+                },
+                "description": "Friday 5 February 2021, 3pm to 3:35pm\n\nMonitor for symptoms",
+                "name": "Fedora Pasta Factory"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "150.863599757456",
+                    "-34.4363867599784"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "_umap_options": {
+                    "color": "LightPink"
+                },
+                "description": "Thursday 4 February 2021, 2pm to 3:30pm\n\nMonitor for symptoms",
+                "name": "Figtree Grove Shopping Centre - Kmart, Australia Post, Blooms The Chemist, Subway "
             },
             "type": "Feature"
         },
@@ -167,23 +150,6 @@
                 },
                 "description": "Wednesday 3 February 2021, 3pm to 4:30pm\n\nMonitor for symptoms",
                 "name": "Thirroul Beach"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    "150.894585650996",
-                    "-34.3926362255211"
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "_umap_options": {
-                    "color": "LightPink"
-                },
-                "description": "Friday 5 February 2021, 3pm to 3:35pm\n\nMonitor for symptoms",
-                "name": "Fedora Pasta Factory"
             },
             "type": "Feature"
         }
