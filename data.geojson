@@ -1,4 +1,362 @@
 {
-    "features": [],
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    "151.170324",
+                    "-33.8873404"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "_umap_options": {
+                    "color": "Red"
+                },
+                "description": "Saturday 1 May 2021, 2pm to 3pm\n\nGet tested immediately and self-isolate until NSW Health provides further information",
+                "name": "Barbeques Galore Annandale"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "151.268333722323",
+                    "-33.787680930272"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "_umap_options": {
+                    "color": "Red"
+                },
+                "description": "Tuesday 4 May 2021, 2:30pm to 2:45pm\n\nGet tested immediately and self-isolate until NSW Health provides further information",
+                "name": "SMITH MADE"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "151.2506902",
+                    "-33.8912569"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "_umap_options": {
+                    "color": "Red"
+                },
+                "description": "Friday 30 April 2021, 6pm to 8pm\n\nGet tested immediately and self-isolate until NSW Health provides further information",
+                "name": "Screening of The Courier at Event Cinemas"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "151.2419545",
+                    "-33.8907492"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "_umap_options": {
+                    "color": "Red"
+                },
+                "description": "Sunday 2 May 2021, 3pm to 4pm\n\nGet tested immediately and self-isolate until NSW Health provides further information",
+                "name": "The Meat Store"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "151.276600725996",
+                    "-33.765000407604"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "_umap_options": {
+                    "color": "Red"
+                },
+                "description": "Tuesday 4 May 2021, 12:30pm to 1pm\n\nGet tested immediately and self-isolate until NSW Health provides further information",
+                "name": "Rug Cleaning Repairs Hand Rug Wash Sydney"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "150.8798286",
+                    "-33.9592599"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "_umap_options": {
+                    "color": "Red"
+                },
+                "description": "Saturday 1 May 2021, 4pm to 5pm\n\nGet tested immediately and self-isolate until NSW Health provides further information",
+                "name": "Barbeques Galore Casula"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "151.302230103947",
+                    "-33.7370926469759"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "_umap_options": {
+                    "color": "Red"
+                },
+                "description": "Tuesday 4 May 2021, 1pm to 1:30pm\n\nGet tested immediately and self-isolate until NSW Health provides further information",
+                "name": "Alfresco Emporium"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "151.244346321646",
+                    "-33.8775548854992"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "_umap_options": {
+                    "color": "Red"
+                },
+                "description": "Tuesday 4 May 2021, 3:45pm to 4pm\n\nGet tested immediately and self-isolate until NSW Health provides further information",
+                "name": "Chemist Warehouse Double Bay"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "151.244867128805",
+                    "-33.878036518982"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "_umap_options": {
+                    "color": "Red"
+                },
+                "description": "Tuesday 4 May 2021, 4:05pm to 4:15pm\n\nGet tested immediately and self-isolate until NSW Health provides further information",
+                "name": "Woolworths Double Bay"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "151.1929504",
+                    "-33.9283602"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "_umap_options": {
+                    "color": "Red"
+                },
+                "description": "Saturday 1 May 2021, 4:30pm to 5pm\n\nGet tested immediately and self-isolate until NSW Health provides further information",
+                "name": "BP Runway, Mascot"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "151.226620481411",
+                    "-33.893487734552"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "_umap_options": {
+                    "color": "Red"
+                },
+                "description": "Monday 3 May 2021, 12:30pm to 1pm\n\nGet tested immediately and self-isolate until NSW Health provides further information",
+                "name": "Azure Caf\u00e9"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "151.226588296895",
+                    "-33.8935678867518"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "_umap_options": {
+                    "color": "Red"
+                },
+                "description": "Monday 3 May 2021, 11:30am to 12:30pm\n\nGet tested immediately and self-isolate until NSW Health provides further information",
+                "name": "The Stadium Club"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "151.231031026953",
+                    "-33.8866678194985"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "_umap_options": {
+                    "color": "Red"
+                },
+                "description": "Friday 30 April 2021, 1:30pm to 2:30pm\n\nGet tested immediately and self-isolate until NSW Health provides further information",
+                "name": "Barbetta"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "151.266092429266",
+                    "-33.8729339077622"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "_umap_options": {
+                    "color": "Red"
+                },
+                "description": "Monday 3 May 2021, 5:30pm to 9pm\n\nGet tested immediately and self-isolate until NSW Health provides further information",
+                "name": "The Royal Sydney Golf Club"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "151.2236081",
+                    "-33.8758609"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "_umap_options": {
+                    "color": "Red"
+                },
+                "description": "Friday 30 April 2021, 8:45pm to 11pm\n\nGet tested immediately and self-isolate until NSW Health provides further information",
+                "name": "Figo Restaurant"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "151.0457383",
+                    "-33.8332633"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "_umap_options": {
+                    "color": "Red"
+                },
+                "description": "Saturday 1 May 2021, 1:30pm to 2:30pm\n\nGet tested immediately and self-isolate until NSW Health provides further information",
+                "name": "Joe's Barbeques & Heating"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "151.0456793",
+                    "-33.8337215"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "_umap_options": {
+                    "color": "Red"
+                },
+                "description": "Saturday 1 May 2021, 1:30pm to 2:30pm\n\nGet tested immediately and self-isolate until NSW Health provides further information",
+                "name": "Tucker Barbecues"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "151.211737611136",
+                    "-33.8658039576829"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "_umap_options": {
+                    "color": "Red"
+                },
+                "description": "Friday 30 April 2021, 11am to 12pm\n\nGet tested immediately and self-isolate until NSW Health provides further information",
+                "name": "District Brasserie"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "151.210922803017",
+                    "-33.8654712947815"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "_umap_options": {
+                    "color": "Red"
+                },
+                "description": "Friday 30 April 2021, 12pm to 1pm\n\nGet tested immediately and self-isolate until NSW Health provides further information",
+                "name": "HineSight Optometrist; Sofitel Sydney Wentworth"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "151.2088972",
+                    "-33.8701004"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "_umap_options": {
+                    "color": "Red"
+                },
+                "description": "Tuesday 27 April 2021, 1:15pm to 2:15pm\n\nGet tested immediately and self-isolate until NSW Health provides further information",
+                "name": "Fratelli Fresh"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "151.2705209",
+                    "-33.893925"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "_umap_options": {
+                    "color": "Red"
+                },
+                "description": "Thursday 29 April 2021, 12:45pm to 1:30pm\n\nGet tested immediately and self-isolate until NSW Health provides further information",
+                "name": "Bondi Trattoria"
+            },
+            "type": "Feature"
+        }
+    ],
     "type": "FeatureCollection"
 }
